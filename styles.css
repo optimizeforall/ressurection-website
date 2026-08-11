@@ -384,9 +384,13 @@ img { max-width: 100%; display: block; }
 /* ---------- Service cards ---------- */
 
 .card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 1.2rem;
+}
+.card-grid .card {
+  flex: 1 1 220px;
 }
 
 .card {
@@ -508,6 +512,12 @@ img { max-width: 100%; display: block; }
   border: 3px solid #fff;
   box-shadow: var(--shadow-md);
 }
+.feature-media--icon img {
+  object-fit: contain;
+  height: auto;
+  max-height: 32rem;
+}
+.feature-media--icon .zoom-btn { height: auto; }
 .feature-body h2 {
   font-family: var(--serif);
   font-size: clamp(1.5rem, 3vw, 2rem);
@@ -1184,6 +1194,8 @@ img { max-width: 100%; display: block; }
   .bulletin-list li { flex-wrap: wrap; gap: 0.4rem 1rem; }
   .bulletin-list .bul-date { flex: 0 0 100%; }
   .bulletin-list .bul-link { margin-left: 0; }
+  /* Two cards per row; a leftover third (Divine Liturgy) stays centered. */
+  .card-grid .card { max-width: calc(50% - 0.6rem); }
 }
 
 @media (max-width: 700px) {
@@ -1207,6 +1219,10 @@ img { max-width: 100%; display: block; }
   .reading-heading { font-size: 1.12rem; margin: 1.85rem 0 0.6rem; }
   .reading-citation { font-size: 0.82rem; letter-spacing: 0.06em; }
   .reading-article, .translation-note, .reading-footer-nav { max-width: 100%; }
+}
+
+@media (max-width: 520px) {
+  .card-grid .card { max-width: 100%; }
 }
 
 @media print {

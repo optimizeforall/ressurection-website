@@ -488,6 +488,116 @@ For reference, this is what exists today. None of it requires anything from you.
 
 ---
 
+## G. Pastoral and practical facts the site cannot answer
+
+These came out of reading the finished site the way a stranger would read it — someone who has never been here, and who has arrived at the website with a particular need. In each case the site falls silent exactly where that person needs an answer, and only the parish can supply it.
+
+Most of these need one line back from you. **"We don't do that" is a complete and useful answer**: it lets us say so plainly, which is far better for the reader than saying nothing at all. **G1 and G3 are the two we would ask you to answer first.**
+
+### G1. What should someone do who needs a priest tonight?
+
+Nothing on the site helps a person in a crisis. The Contact page tells visitors to telephone the rector about baptisms, weddings, memorials and house blessings, which is right for someone planning ahead — but it says nothing to the woman whose father is dying at Mercy tonight, or to someone who needs to confess before morning. That person will find the telephone number, not know whether ringing it at eleven at night is acceptable, and quite possibly not ring at all.
+
+This is arguably the highest-stakes use a parish website has. Section A1 already asks whether there is a preferred number for pastoral emergencies; what follows is what we would need in order to actually write the paragraph.
+
+- [ ] Which number should someone call in a genuine emergency — a death, a dying person, an urgent confession?
+- [ ] Is it answered **after hours**, or does it go to a machine? If a machine, roughly how quickly is it heard?
+- [ ] Is there a **second person** to try if the rector cannot be reached — another priest, a parishioner, a nearby ROCOR or Orthodox parish?
+- [ ] What should the caller **expect**? For example: "Leave a message with your name, telephone number and where you are, and Fr. Ioann will call back as soon as he is able." Even that one sentence changes everything for someone hesitating over the phone.
+- [ ] May we repeat this on the Services page as well as Contact, so it is never more than one click away?
+
+### G2. Does the priest come to hospitals, care homes and private houses?
+
+The site never says that he does. An Orthodox family with a parent in a nursing home in Blaine, or a parishioner recovering at home after surgery, has no way of learning from the website that confession, Communion or Holy Unction can be brought to them — so they will assume it cannot, or they will not think to ask.
+
+- [ ] Does the rector visit **hospitals, nursing homes, care facilities and private homes**?
+- [ ] **How far does he travel** — the immediate metro, the whole Twin Cities, further for a serious case?
+- [ ] Will he attend people who are **not parishioners** — a Russian or Orthodox patient with no parish of their own, or one whose family calls on their behalf?
+- [ ] **How should someone ask**, and how much notice is normally needed?
+
+This would go on the Contact page and alongside the sacraments on the Services page.
+
+### G3. Steps, wheelchairs, and where the restrooms are
+
+The site tells a visitor where to park and nothing else about the building. It does not say whether there are steps at the door, whether a wheelchair can get in, whether there is anywhere to sit, or where the restrooms are — and the meal afterwards is downstairs, which for some people is the deciding fact.
+
+An elderly or disabled visitor, or a parent with a small child, cannot plan a visit without this. They will not telephone to ask; they will simply not come. These are plain facts about the building, and a few sentences settles it permanently.
+
+- [ ] Are there **steps at the entrance**? How many, and is there a handrail?
+- [ ] Is there a **ramp or level entrance** anywhere, including a side or back door? Can a wheelchair or walker get into the nave?
+- [ ] Is there **accessible parking**, or somewhere a car can pull up close to the door to let someone out?
+- [ ] **Where are the restrooms** — the same floor as the church, or downstairs? Is any of them accessible?
+- [ ] Is the **hall for the meal downstairs**, and is there any way down other than the stairs?
+- [ ] Is there **seating** for those who cannot stand, and roughly how much?
+- [ ] Anything else worth warning about: a gravel path, a steep drive, ice in winter.
+
+This belongs in the First Visit questions, next to "Where do I park?".
+
+### G4. Funerals — how an Orthodox burial is actually arranged
+
+The Services page covers panikhidas and commemoration at the Liturgy, but not a funeral. Someone whose mother has just died, looking for an Orthodox burial in the Twin Cities, finds nothing on the site that tells them what to do, and this is not a moment when people make several phone calls.
+
+- [ ] Does the parish **serve funerals**, and what is the first step for a family — call the rector before or after contacting a funeral home?
+- [ ] Is there a **funeral home** the parish habitually works with, or that already understands Orthodox practice?
+- [ ] Are there **cemeteries locally** where parishioners are buried, or an Orthodox section anywhere in the metro? Does the clergy serve **graveside**?
+- [ ] What about a family from **out of town**, or someone with no parish of their own?
+- [ ] Anything about **offerings** that would spare a grieving family from having to ask.
+
+### G5. May people visit the skete?
+
+Section B2 asks for a description of the monastic life. This is the narrower, practical half of the same question, and it is the one a stranger acts on. The About page and the homepage both speak of a skete and the daily prayer of the brotherhood, but there is no visitor-facing policy anywhere on the site — so someone drawn by exactly that has no idea whether they may come, and no way to ask other than to turn up.
+
+- [ ] **Who is at the skete now?** The site can say very little without this, and it should not overstate a community that has changed.
+- [ ] May a visitor attend **weekday services** kept by the brotherhood, or are those private? If some are open, which?
+- [ ] Can a **pilgrim stay overnight**, and if so, who arranges it and on what terms? Men only?
+- [ ] Are there **work days** or occasions when help is welcome?
+- [ ] **How should someone ask** — telephone the rector, write, or simply speak to him after Liturgy? Whatever the answer, we would like to print it, so that nobody has to guess.
+
+### G6. How would somebody help?
+
+The site names Subdeacon James as choir director and lists the acolytes, but there is no way for a reader to learn how anyone joins any of it. The photographs show meals, work, feasts and church life; the site never explains how a person becomes part of that. New parishioners in particular tend to wait years to be asked.
+
+- [ ] Which of these actually exist here, and **who should someone speak to** about each: the **choir**, **reading**, **serving in the altar**, the **trapeza** and the Sunday meal, **cleaning and work days**, **grounds and maintenance**, a **sisterhood**, care of the **candles and church shop**?
+- [ ] Are there **conditions** worth stating — that the choir sings in Slavonic and reads music, that altar servers are appointed by the rector, that some roles are for the baptised or the chrismated?
+- [ ] Is there **anything the parish needs right now** that a willing person could do? A specific, named need gets answered; "get involved" does not.
+
+### G7. Church school, youth, catechism — yes or no?
+
+The First Visit page says children are welcome, which is warm and true, but the site never says whether there is a church school, a group for teenagers, or a class for inquirers and catechumens. A family deciding between parishes reads that silence as "no", and an inquirer reads it as "nothing for me".
+
+We only need a yes or a no.
+
+- [ ] Is there a **church school** for children? On what days, and for what ages?
+- [ ] Is there anything for **teenagers or young adults**?
+- [ ] Is there a **catechism or inquirers' class**, or does preparation happen one-to-one with the rector?
+- [ ] If none of these exists, may we **say so plainly** — "we have no formal programme; speak with Fr. Ioann and he will meet with you"? An honest no reads far better than silence, and it is an invitation rather than a closed door.
+
+### G8. Molebens, commemoration notes and prosphora
+
+Section A2 asks whether we have omitted molebens from the schedule. This item is about the other half: how someone actually asks for one. At the moment molebens are mentioned nowhere on the public pages — they appear only inside one of the readings, «Поминовения» — and the instructions for commemoration notes and prosphora are likewise buried in that reading rather than set out where a person would look for them. Practical instructions belong on the Services page next to baptisms and memorials.
+
+- [ ] Are **molebens** served on request — for the sick, for travellers, for a name day, a thanksgiving, the start of the school year? How should someone ask?
+- [ ] How are **names given for commemoration** in practice: written on a note and handed to the priest before Liturgy, left somewhere, sent by email or telephone?
+- [ ] Any parish custom for the **note itself** — living and departed on separate notes, baptismal names only, the number of names, Russian or English.
+- [ ] Are **prosphora** offered with the notes, and is there a **customary offering** for a moleben, a panikhida or a commemoration? Parishes vary, and visitors are usually anxious about getting this wrong. A plain sentence, including "there is no set amount", is a kindness.
+
+### G9. Orthodox visitors from another parish
+
+The First Visit page tells an Orthodox visitor to come by 9:00 AM for confession, which is the main thing. It says nothing to someone arriving from another parish or another jurisdiction — a family visiting relatives, a student, someone from an OCA or Antiochian parish — about whether the rector expects a word beforehand.
+
+- [ ] Is a **letter of introduction** from their own priest expected, or is it enough to speak with Fr. Ioann before the Liturgy?
+- [ ] What is the practice for visitors from **other jurisdictions**?
+- [ ] Should someone intending to commune **telephone in advance**, or simply arrive at 9:00 for confession like anyone else?
+
+### G10. One legal name, used everywhere
+
+A small inconsistency worth settling while the rest is being confirmed. The Donate page asks that cheques be made out to **Church of the Resurrection of Christ Inc**, while the Contact page and the heading of every page give the full name, **Russian Orthodox Church and Skete of the Resurrection of Christ**. Both are presumably right in their own way, but a donor cannot tell which one to write.
+
+- [ ] Confirm the **exact name a bank will accept on a cheque**. This is the same question as A7 — if you answer it there, we will make the two pages agree and there is nothing further to do here.
+- [ ] Tell us if the **registered legal name differs** from the name the parish goes by, and whether the legal form should appear anywhere other than the Donate page.
+
+---
+
 ## How to send things
 
 Whatever is easiest for you:
