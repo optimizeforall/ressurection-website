@@ -1,0 +1,34 @@
+{
+  "_comment": "Corrections to headings that were mistyped on the old site. The body text is left exactly as it was found; only these headings are amended, because a misspelt saint's name or a truncated word reads as carelessness in an index.",
+
+  "godisfire": {
+    "en": "God is Fire — by Saint John of Shanghai and San Francisco",
+    "was_en": "God is Fire - by Saint John of Shangai and San Franciso"
+  },
+  "pominoveni": {
+    "ru": "Поминовение",
+    "was_ru": "Поминовени"
+  },
+  "sundaymyhrrbearers": {
+    "en": "On the Sunday of the Myrrh-bearers",
+    "was_en": "On the Sunday of the Myrrbearers"
+  },
+  "feastangmich": {
+    "en": "Homily for the Feast of St Archangel Michael",
+    "ru": "Слово на праздник святого Архистратига Михаила",
+    "was_en": "set in capitals on the old site"
+  },
+
+  "how2": {
+    "en": "How We Should Conduct Ourselves in Church: Entering and Standing",
+    "ru": "Как нам вести себя в храме: вход и стояние",
+    "was_en": "How We Should Conduct Ourselves in Church",
+    "was_ru": "Как нам вести себя в храме"
+  },
+  "conductinchurch": {
+    "en": "How We Should Conduct Ourselves in Church: Communion and After",
+    "ru": "Как нам вести себя в храме: причащение и после Литургии",
+    "was_en": "How We Should Conduct Ourselves in Church",
+    "was_ru": "Как нам вести себя в храме"
+  }
+}

@@ -1,0 +1,21 @@
+# Working copy of the old site — not part of the public website
+scrape/
+original-home.html
+original-sitemap.xml
+_langtest.html
+
+# Full-size photo originals (~127 MB). The site serves only assets/gallery-web/.
+assets/gallery/
+
+# Build intermediates — the live site reads data/readings.json, not these.
+data/readings-content.json
+data/readings-full.json
+
+# Build/QA screenshots
+screenshots/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

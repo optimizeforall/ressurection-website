@@ -1,0 +1,126 @@
+[
+  {
+    "date": "2026-08-14",
+    "endDate": "2026-08-27",
+    "dateLabel": "Aug 14 – 27",
+    "dateLabelRu": "14 – 27 авг",
+    "title": "The Dormition Fast",
+    "titleRu": "Успенский пост"
+  },
+  {
+    "date": "2026-08-18",
+    "dateLabel": "Tue, Aug 18",
+    "dateLabelRu": "Вт, 18 авг",
+    "title": "Vigil for the Transfiguration, 6:00 PM",
+    "titleRu": "Всенощное бдение на Преображение, 18:00",
+    "feast": "Eve of the Transfiguration of our Lord",
+    "feastRu": "Навечерие Преображения Господня"
+  },
+  {
+    "date": "2026-08-19",
+    "dateLabel": "Wed, Aug 19",
+    "dateLabelRu": "Ср, 19 авг",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "The Transfiguration of our Lord",
+    "feastRu": "Преображение Господне"
+  },
+  {
+    "date": "2026-08-27",
+    "dateLabel": "Thu, Aug 27",
+    "dateLabelRu": "Чт, 27 авг",
+    "title": "Vigil for the Dormition, 6:00 PM",
+    "titleRu": "Всенощное бдение на Успение, 18:00",
+    "feast": "Eve of the Dormition of the Mother of God",
+    "feastRu": "Навечерие Успения Пресвятой Богородицы"
+  },
+  {
+    "date": "2026-08-28",
+    "dateLabel": "Fri, Aug 28",
+    "dateLabelRu": "Пт, 28 авг",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "The Dormition of the Mother of God",
+    "feastRu": "Успение Пресвятой Богородицы"
+  },
+  {
+    "date": "2026-09-11",
+    "dateLabel": "Fri, Sep 11",
+    "dateLabelRu": "Пт, 11 сен",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "The Beheading of St. John the Baptist",
+    "feastRu": "Усекновение главы Иоанна Предтечи"
+  },
+  {
+    "date": "2026-09-21",
+    "dateLabel": "Mon, Sep 21",
+    "dateLabelRu": "Пн, 21 сен",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "The Nativity of the Mother of God",
+    "feastRu": "Рождество Пресвятой Богородицы"
+  },
+  {
+    "date": "2026-09-27",
+    "dateLabel": "Sun, Sep 27",
+    "dateLabelRu": "Вс, 27 сен",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "The Exaltation of the Precious Cross",
+    "feastRu": "Воздвижение Честного Креста"
+  },
+  {
+    "date": "2026-10-14",
+    "dateLabel": "Wed, Oct 14",
+    "dateLabelRu": "Ср, 14 окт",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "The Protection of the Mother of God",
+    "feastRu": "Покров Пресвятой Богородицы"
+  },
+  {
+    "date": "2026-11-28",
+    "endDate": "2027-01-06",
+    "dateLabel": "Nov 28 – Jan 6",
+    "dateLabelRu": "28 нояб – 6 янв",
+    "title": "The Nativity Fast",
+    "titleRu": "Рождественский пост"
+  },
+  {
+    "date": "2026-12-04",
+    "dateLabel": "Fri, Dec 4",
+    "dateLabelRu": "Пт, 4 дек",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "The Entry of the Mother of God into the Temple",
+    "feastRu": "Введение во храм Пресвятой Богородицы"
+  },
+  {
+    "date": "2026-12-19",
+    "dateLabel": "Sat, Dec 19",
+    "dateLabelRu": "Сб, 19 дек",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "St. Nicholas the Wonderworker",
+    "feastRu": "Святителя Николая Чудотворца"
+  },
+  {
+    "date": "2027-01-07",
+    "dateLabel": "Thu, Jan 7",
+    "dateLabelRu": "Чт, 7 янв",
+    "title": "Divine Liturgy, 9:30 AM",
+    "titleRu": "Божественная Литургия, 9:30",
+    "feast": "The Nativity of Christ",
+    "feastRu": "Рождество Христово"
+  },
+  {
+    "date": "2027-01-19",
+    "dateLabel": "Tue, Jan 19",
+    "dateLabelRu": "Вт, 19 янв",
+    "title": "Divine Liturgy and Great Blessing of Water, 9:30 AM",
+    "titleRu": "Литургия и великое освящение воды, 9:30",
+    "feast": "The Theophany of our Lord",
+    "feastRu": "Богоявление Господне"
+  }
+]

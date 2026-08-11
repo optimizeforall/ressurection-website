@@ -1,0 +1,31 @@
+{
+  "translationNoteEn": "This English text was translated for this website from the Russian original. It has not yet been checked by a member of the parish.",
+  "translationNoteRu": "Этот русский текст переведён для сайта с английского оригинала и ещё не проверен приходом.",
+  "sourceLabelEn": "Source",
+  "sourceLabelRu": "Источник",
+  "allReadingsEn": "All readings",
+  "allReadingsRu": "Все чтения",
+  "attributionPrefixes": ["fr", "father", "by", "from", "source", "excerpted", "adapted",
+    "прот", "протоиерей", "св", "святитель", "из", "источник", "перевод", "по материалам"],
+
+  "_bylineMarkers": "Words that mark a short opening line as the author's name rather than a heading.",
+  "bylineMarkers": ["Rev\\b", "D\\.D\\.", "Prof\\b", "Sermon of", "Протопресвитер",
+    "протоиерей", "доктор богословия", "Проповедь"],
+
+  "_sentenceAbbreviations": "Tokens that end in a full stop without ending a sentence. Used when breaking very long paragraphs so that 'St. Sergius' or 'Мф. 4, 18' is never split in two.",
+  "sentenceAbbreviations": [
+    "St", "Sts", "Ss", "Fr", "Frs", "Mr", "Mrs", "Ms", "Dr", "Rev", "Prof", "Bp", "Abp",
+    "Metr", "Archim", "Archbp", "Hieromk", "Vol", "No", "Nos", "cf", "ca", "etc", "e.g",
+    "i.e", "viz", "vs", "approx", "Matt", "Matth", "Mrk", "Lke", "Jhn", "Jan", "Feb", "Mar", "Apr", "Jun", "Jul", "Aug", "Sept",
+    "Sep", "Oct", "Nov", "Dec", "Mt", "Mk", "Lk", "Jn", "Rom", "Cor", "Gal", "Eph", "Phil",
+    "Philem", "Col", "Thess", "Tim", "Tit", "Heb", "Jas", "Pet", "Jude", "Rev", "Ps", "Prov",
+    "Gen", "Ex", "Lev", "Num", "Deut", "Josh", "Judg", "Sam", "Kg", "Kgs", "Chr", "Neh",
+    "Esth", "Eccl", "Is", "Isa", "Jer", "Lam", "Ezek", "Dan", "Hos", "Mic", "Nah", "Hab",
+    "Zeph", "Hag", "Zech", "Mal", "Acts",
+    "г", "гг", "в", "вв", "св", "свв", "прп", "прот", "протопр", "архим", "еп", "архиеп",
+    "митр", "игум", "иером", "стр", "им", "ул", "др", "т", "д", "п", "н", "обл", "гл",
+    "Мф", "Мк", "Лк", "Ин", "Деян", "Рим", "Кор", "Гал", "Еф", "Флп", "Кол", "Фес", "Тим",
+    "Тит", "Евр", "Иак", "Петр", "Иуд", "Откр", "Пс", "Притч", "Быт", "Исх", "Лев", "Числ",
+    "Втор", "Ис", "Иер", "Иез", "Дан", "Сир", "Прем"
+  ]
+}

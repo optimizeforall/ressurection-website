@@ -1,0 +1,3029 @@
+[
+    {
+        "slug":  "our-church-today",
+        "title":  "Our Church Today",
+        "year":  2026,
+        "cover":  "assets/church-exterior.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/church-exterior.jpg",
+                           "large":  "assets/church-exterior.jpg",
+                           "caption":  "The church and skete in winter"
+                       },
+                       {
+                           "thumb":  "assets/church-interior.webp",
+                           "large":  "assets/church-interior.webp",
+                           "caption":  "The nave and the iconostasis"
+                       },
+                       {
+                           "thumb":  "assets/church-chapel.webp",
+                           "large":  "assets/church-chapel.webp",
+                           "caption":  "The chapel, with its stained glass"
+                       }
+                   ]
+    },
+    {
+        "slug":  "st-seraphim-feast-2021",
+        "title":  "Feast of St. Seraphim of Sarov, 2021",
+        "year":  2021,
+        "cover":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_091536-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_091536-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_091536-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_091544-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_091544-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_093400-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_093400-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105428-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105428-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105437-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105437-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105515-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105515-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105520-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105520-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105701-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105701-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105713-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_105713-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110446-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110446-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110623-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110623-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110635-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110635-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110717-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110717-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110720-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_110720-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_112920-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG_20210801_112920-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG-2ce0f479ae71987abb4865e73a3ea617-V-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG-2ce0f479ae71987abb4865e73a3ea617-V-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG-5bd6f688d59af4405b13fbf81e9aa902-V-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG-5bd6f688d59af4405b13fbf81e9aa902-V-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG-6144646244f5a653a6e5a70c84892cee-V-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG-6144646244f5a653a6e5a70c84892cee-V-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG-7332dbf7c8daa15ad06e1b4da97a3da4-V-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG-7332dbf7c8daa15ad06e1b4da97a3da4-V-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG-8242f18a7f012a6cdbd890ecc3e44803-V-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG-8242f18a7f012a6cdbd890ecc3e44803-V-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-feast-2021/IMG-9882ae58de05fff65fe95d4600240304-V-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-feast-2021/IMG-9882ae58de05fff65fe95d4600240304-V-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "festal-days-in-august-2015",
+        "title":  "Festal Days in August 2015",
+        "year":  2015,
+        "cover":  "assets/gallery-web/festal-days-in-august-2015/080115-071-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/festal-days-in-august-2015/080115-071-thumb.jpg",
+                           "large":  "assets/gallery-web/festal-days-in-august-2015/080115-071-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "baptism-november-2014",
+        "title":  "Baptism, November 2014",
+        "year":  2014,
+        "cover":  "assets/gallery-web/baptism-november-2014/IMG_8493-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/baptism-november-2014/IMG_8493-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism-november-2014/IMG_8493-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism-november-2014/IMG_8494-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism-november-2014/IMG_8494-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism-november-2014/IMG_8497-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism-november-2014/IMG_8497-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism-november-2014/IMG_8511-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism-november-2014/IMG_8511-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism-november-2014/IMG_8550-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism-november-2014/IMG_8550-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "epiphany-2014",
+        "title":  "Epiphany 2014",
+        "year":  2014,
+        "cover":  "assets/gallery-web/epiphany-2014/DSCN0957_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0957_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0957_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0958_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0958_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0959_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0959_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0960_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0960_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0962_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0962_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0967_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0967_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0970_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0970_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0974_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0974_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0979_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0979_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0984_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0984_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0992_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0992_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/epiphany-2014/DSCN0994_1-thumb.jpg",
+                           "large":  "assets/gallery-web/epiphany-2014/DSCN0994_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "parish-life-august-2013",
+        "title":  "Parish Life August 2013",
+        "year":  2013,
+        "cover":  "assets/gallery-web/parish-life-august-2013/DSCN0237_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0237_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0237_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0243_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0243_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0251_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0251_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0253_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0253_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0263_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0263_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0271_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0271_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0273_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0273_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0276_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0276_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0278_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0278_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0279_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0279_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0282_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0282_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0284_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0284_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/parish-life-august-2013/DSCN0285_1-thumb.jpg",
+                           "large":  "assets/gallery-web/parish-life-august-2013/DSCN0285_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "st-seraphim-day-2013",
+        "title":  "St. Seraphim Day 2013",
+        "year":  2013,
+        "cover":  "assets/gallery-web/st-seraphim-day-2013/DSCN0016-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2013/DSCN0016-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2013/DSCN0016-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2013/DSCN0022-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2013/DSCN0022-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2013/DSCN0034-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2013/DSCN0034-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2013/DSCN0047-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2013/DSCN0047-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2013/DSCN0053-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2013/DSCN0053-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2013/DSCN0060-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2013/DSCN0060-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2013/DSCN0061-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2013/DSCN0061-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2013/DSCN0065-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2013/DSCN0065-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "nativity-of-christ-2012",
+        "title":  "Nativity of Christ 2012",
+        "year":  2012,
+        "cover":  "assets/gallery-web/nativity-of-christ-2012/Photo10-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo10-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo10-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo11-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo11-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo12-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo12-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo13-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo13-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo17-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo17-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo19-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo19-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo22-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo22-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo23-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo23-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo24-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo24-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo5-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo5-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2012/Photo7-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2012/Photo7-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pascha-2012",
+        "title":  "Pascha 2012",
+        "year":  2012,
+        "cover":  "assets/gallery-web/pascha-2012/DSCF3473_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3473_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3473_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3473-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3473-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3480_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3480_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3480-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3480-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3482_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3482_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3482-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3482-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3483_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3483_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3483-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3483-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3510_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3510_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3510-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3510-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3526_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3526_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3526-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3526-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3527_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3527_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3528_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3528_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2012/DSCF3528-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2012/DSCF3528-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pentecost-2012",
+        "title":  "Pentecost 2012",
+        "year":  2012,
+        "cover":  "assets/gallery-web/pentecost-2012/HolyTrinity_01-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_01-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_01-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_03-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_03-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_04-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_04-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_08-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_08-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_12-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_12-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_15-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_15-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_16-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_16-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_17-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_17-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_18-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_18-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_20-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_20-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_23-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_23-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_24-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_24-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_33-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_33-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_35-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_35-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_39-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_39-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_40-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_40-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_41-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_41-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_42-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_42-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_43-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_43-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_45-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_45-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_47-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_47-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_50-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_50-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_52-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_52-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_53-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_53-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_54-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_54-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_55-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_55-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_56-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_56-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_61-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_61-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_62-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_62-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_63-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_63-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_68-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_68-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_69-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_69-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_71-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_71-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2012/HolyTrinity_72-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2012/HolyTrinity_72-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "chicago-clergy-conference-2011",
+        "title":  "Chicago Clergy Conference 2011",
+        "year":  2011,
+        "cover":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2666-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2666-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2666-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2668-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2668-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2669-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2669-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2672-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2672-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2675-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2675-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2677-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2677-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2680-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2680-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2681-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2681-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2684-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2684-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2687-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-clergy-conference-2011/DSCF2687-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "nativity-of-christ-2011",
+        "title":  "Nativity of Christ 2011",
+        "year":  2011,
+        "cover":  "assets/gallery-web/nativity-of-christ-2011/IMG_0891-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0891-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0891-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0896-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0896-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0904-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0904-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0908-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0908-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0909-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0909-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0918-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0918-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0928-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0928-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0932-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0932-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0937-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0937-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0946-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0946-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0953-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0953-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0962-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0962-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0968-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0968-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0969-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0969-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0977-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0977-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_0986-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_0986-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_1001-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_1001-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_1002-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_1002-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_1045-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_1045-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_1094-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_1094-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_1989-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_1989-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_1998-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_1998-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_2003-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_2003-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_2011-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_2011-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_2012-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_2012-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_2015-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_2015-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_2019-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_2019-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_2025-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_2025-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_2030-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_2030-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-of-christ-2011/IMG_2084-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-of-christ-2011/IMG_2084-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "palm-sunday-2011",
+        "title":  "Palm Sunday 2011",
+        "year":  2011,
+        "cover":  "assets/gallery-web/palm-sunday-2011/psuday01_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday01_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday01_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday02_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday02_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday03_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday03_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday04_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday04_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday05_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday05_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday06_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday06_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday07_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday07_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday08_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday08_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday09_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday09_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday10_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday10_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday11_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday11_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2011/psuday12_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2011/psuday12_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "kursk-icon-visit-mpls-2010",
+        "title":  "Kursk Icon Visit Mpls 2010",
+        "year":  2010,
+        "cover":  "assets/gallery-web/kursk-icon-visit-mpls-2010/001K-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/001K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/001K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/002K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/002K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/003K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/003K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/004K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/004K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/005K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/005K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/006K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/006K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/007K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/007K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/008K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/008K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/010K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/010K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/012K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/012K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/013K-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/013K-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/kursk-icon-visit-mpls-2010/KurskRootIconTheotokos-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-icon-visit-mpls-2010/KurskRootIconTheotokos-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pascha-2010",
+        "title":  "Pascha 2010",
+        "year":  2010,
+        "cover":  "assets/gallery-web/pascha-2010/SDC10487B_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10487B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10487B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10492B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10492B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10503B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10503B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10508B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10508B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10512B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10512B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10516B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10516B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10535B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10535B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10537B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10537B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10580B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10580B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10584B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10584B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10586B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10586B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10587B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10587B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10590B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10590B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10601B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10601B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10611B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10611B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10612B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10612B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10616B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10616B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10623B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10623B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10630B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10630B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2010/SDC10633B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2010/SDC10633B_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "st-seraphim-day-2010",
+        "title":  "St. Seraphim Day 2010",
+        "year":  2010,
+        "cover":  "assets/gallery-web/st-seraphim-day-2010/DSCF2104b-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2104b-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2104b-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2112b-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2112b-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2113b-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2113b-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2114b-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2114b-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2116b-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2116b-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2118B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2118B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2122B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2122B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2131B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2131B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2136B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2136B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2138B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2138B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2139B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2139B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2146B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2146B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2148B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2148B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2150B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2150B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2155B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2155B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2173B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2173B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCF2174B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCF2174B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN3932B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN3932B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN3958B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN3958B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN3978B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN3978B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN3980B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN3980B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN3981B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN3981B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN3985B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN3985B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN3992B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN3992B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN4017b-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN4017b-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN4018b-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN4018b-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN4020B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN4020B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN4025B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN4025B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN4041B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN4041B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2010/DSCN4049B-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2010/DSCN4049B-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pascha-2009",
+        "title":  "Pascha 2009",
+        "year":  2009,
+        "cover":  "assets/gallery-web/pascha-2009/001_0002B-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/001_0002B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/001_0002B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/002_0003B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/002_0003B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/003_0004B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/003_0004B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/004_0001-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/004_0001-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/005_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/005_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/006_0001-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/006_0001-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/007_0002-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/007_0002-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/008_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/008_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/009_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/009_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/010_0007-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/010_0007-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/011_0008-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/011_0008-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/012_0009-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/012_0009-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/013_0010-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/013_0010-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/014_0011-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/014_0011-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/015_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/015_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/016_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/016_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/017_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/017_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/018_0001-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/018_0001-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/019_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/019_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/020_0002B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/020_0002B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/021_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/021_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/022_0002B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/022_0002B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/023_0001B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/023_0001B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2009/024_0002B-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2009/024_0002B-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pentecost-2009",
+        "title":  "Pentecost 2009",
+        "year":  2009,
+        "cover":  "assets/gallery-web/pentecost-2009/100_0426-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2009/100_0426-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2009/100_0426-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2009/100_0437-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2009/100_0437-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2009/100_0439-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2009/100_0439-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2009/100_0440-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2009/100_0440-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2009/100_0441-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2009/100_0441-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2009/100_0442-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2009/100_0442-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2009/100_0443-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2009/100_0443-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "st-michael-feastday-hibbing-2009",
+        "title":  "St. Michael Feastday Hibbing 2009",
+        "year":  2009,
+        "cover":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1955-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1955-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1955-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1956-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1956-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1957-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1957-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1959-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1959-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1961-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1961-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1962-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1962-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1963-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1963-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1964-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1964-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1965-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1965-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1966-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1966-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1969-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1969-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1971-thumb.jpg",
+                           "large":  "assets/gallery-web/st-michael-feastday-hibbing-2009/DSCF1971-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "st-seraphim-day-2009",
+        "title":  "St. Seraphim Day 2009",
+        "year":  2009,
+        "cover":  "assets/gallery-web/st-seraphim-day-2009/01_100_0484B_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/01_100_0484B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/01_100_0484B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/02_100_0505D_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/02_100_0505D_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/03_DSCF1760_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/03_DSCF1760_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/04_DSCF1765_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/04_DSCF1765_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/05_DSCF1767_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/05_DSCF1767_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/06_DSCF1768B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/06_DSCF1768B_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/07_DSCF1770_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/07_DSCF1770_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/08_IMG_0197_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/08_IMG_0197_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/09_DSCF1775_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/09_DSCF1775_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/10_DSCF1776_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/10_DSCF1776_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/11_DSCF1782_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/11_DSCF1782_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/12_DSCF1792_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/12_DSCF1792_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/13_DSCF1796_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/13_DSCF1796_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/14_DSCF1798_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/14_DSCF1798_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/15_DSCF1808_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/15_DSCF1808_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/17_DSCF1812_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/17_DSCF1812_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/18_DSCF1820_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/18_DSCF1820_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/19_DSCF1826_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/19_DSCF1826_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/20_DSCF1836_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/20_DSCF1836_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/21_DSCF1838_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/21_DSCF1838_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/22_DSCF1845_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/22_DSCF1845_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/23_DSCF1850_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/23_DSCF1850_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/24_DSCF1854_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/24_DSCF1854_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/25_IMG_0162_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/25_IMG_0162_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/26_IMG_0165_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/26_IMG_0165_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/28_IMG_0169_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/28_IMG_0169_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/29_IMG_0170_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/29_IMG_0170_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/30_IMG_0172_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/30_IMG_0172_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/31_IMG_0175_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/31_IMG_0175_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/32_IMG_0178_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/32_IMG_0178_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/33_IMG_0179_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/33_IMG_0179_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/34_IMG_0188_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/34_IMG_0188_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/35_IMG_0201_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/35_IMG_0201_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/36_IMG_0203_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/36_IMG_0203_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/37_IMG_0205_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/37_IMG_0205_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2009/38_IMG_0207_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2009/38_IMG_0207_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "transfiguration-2009",
+        "title":  "Transfiguration 2009",
+        "year":  2009,
+        "cover":  "assets/gallery-web/transfiguration-2009/100_0510-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/100_0510-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/100_0510-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1895-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1895-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1899-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1899-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1900-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1900-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1905-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1905-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1907-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1907-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1913-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1913-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1917-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1917-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1921-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1921-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1924-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1924-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1925-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1925-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1926-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1926-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2009/DSCF1927-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2009/DSCF1927-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "australia-visit-2008",
+        "title":  "Australia Visit 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/australia-visit-2008/001-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/001-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/001-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/004-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/004-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/007-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/007-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/008-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/008-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/110-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/110-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/111-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/111-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/113-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/113-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/114-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/114-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/121-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/121-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/122-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/122-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/126-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/126-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/135-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/135-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/146-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/146-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/150-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/150-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0581-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0581-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0583-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0583-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0586-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0586-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0590-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0590-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0592-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0592-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0593-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0593-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0602-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0602-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0611-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0611-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0613-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0613-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0614-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0614-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0617-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0617-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0627-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0627-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0719-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0719-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0821-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0821-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0822-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0822-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0824-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0824-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0825-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0825-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0826-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0826-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0827-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0827-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/DSCF0857-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/DSCF0857-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/IMG_0779-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/IMG_0779-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/IMG_0902-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/IMG_0902-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/IMG_0908-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/IMG_0908-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/IMG_0924-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/IMG_0924-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/IMG_0963-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/IMG_0963-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/Img_Dorm-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/Img_Dorm-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/P1000339-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/P1000339-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/P1000340-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/P1000340-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/P1000342-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/P1000342-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/P1000343-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/P1000343-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0528-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0528-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0539-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0539-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0540-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0540-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0543-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0543-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0550-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0550-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0552-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0552-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0553-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0553-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0561-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0561-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0562-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0562-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0569-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0569-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0576-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0576-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/australia-visit-2008/RSCF0577-thumb.jpg",
+                           "large":  "assets/gallery-web/australia-visit-2008/RSCF0577-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "chicago-camp-2008",
+        "title":  "Chicago Camp 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/chicago-camp-2008/DSCF0053_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/chicago-camp-2008/DSCF0053_1-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-camp-2008/DSCF0053_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-camp-2008/DSCF0054_1-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-camp-2008/DSCF0054_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-camp-2008/DSCF0055_1-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-camp-2008/DSCF0055_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-camp-2008/DSCF0086_1-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-camp-2008/DSCF0086_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-camp-2008/DSCF0087_1-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-camp-2008/DSCF0087_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-camp-2008/DSCF0096_1-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-camp-2008/DSCF0096_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/chicago-camp-2008/DSCF0102_1-thumb.jpg",
+                           "large":  "assets/gallery-web/chicago-camp-2008/DSCF0102_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "christmas-2008",
+        "title":  "Christmas 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/christmas-2008/DSC_1645-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1645-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1645-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1660-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1660-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1668-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1668-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1675-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1675-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1753-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1753-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1763-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1763-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1828-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1828-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1851-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1851-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1874-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1874-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1904-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1904-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1925-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1925-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_1973-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_1973-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_2010-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_2010-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_2028-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_2028-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_2048-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_2048-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_2136-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_2136-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/christmas-2008/DSC_2138-thumb.jpg",
+                           "large":  "assets/gallery-web/christmas-2008/DSC_2138-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "erie-conference-2008",
+        "title":  "Erie Conference 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/erie-conference-2008/Conference-0001_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0001_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0001_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0007_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0007_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0011_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0011_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0023_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0023_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0028_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0028_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0039_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0039_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0042_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0042_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0043_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0043_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0044_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0044_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0047_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0047_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0049_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0049_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0055_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0055_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0057_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0057_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0065_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0065_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0079_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0079_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0085_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0085_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0107_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0107_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0110_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0110_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/Conference-0113_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/Conference-0113_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0711_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0711_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0712_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0712_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0723_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0723_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0744_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0744_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0755_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0755_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0756_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0756_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0789_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0789_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0797_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0797_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0808_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0808_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0814_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0814_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0818_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0818_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0889_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0889_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0897_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0897_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/erie-conference-2008/DSC_0907_1-thumb.jpg",
+                           "large":  "assets/gallery-web/erie-conference-2008/DSC_0907_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "jerusalem-pilgrimage-2008",
+        "title":  "Jerusalem Pilgrimage 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg1-thumb.jpg",
+                           "large":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg2-thumb.jpg",
+                           "large":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg2-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg3-thumb.jpg",
+                           "large":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg3-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg4-thumb.jpg",
+                           "large":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg4-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg5-thumb.jpg",
+                           "large":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg5-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg6-thumb.jpg",
+                           "large":  "assets/gallery-web/jerusalem-pilgrimage-2008/pilg6-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "milwaukee-2008",
+        "title":  "Milwaukee 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/milwaukee-2008/DSC00008-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSC00008-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSC00008-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSC00013-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSC00013-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSC00016-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSC00016-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSC00024B-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSC00024B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSC00037B-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSC00037B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSCF1029_1-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSCF1029_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSCF1030_1-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSCF1030_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSCF1031_1-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSCF1031_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSCF1032_1-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSCF1032_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/milwaukee-2008/DSCF1034_1-thumb.jpg",
+                           "large":  "assets/gallery-web/milwaukee-2008/DSCF1034_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pokrov-chicago-2008",
+        "title":  "Pokrov Chicago 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/pokrov-chicago-2008/DSCF0882-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0882-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0882-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0886-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0886-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0912-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0912-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0927-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0927-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0928-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0928-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0934-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0934-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0949_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0949_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0972_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0972_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0974_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0974_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0977_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0977_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0984_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0984_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF0997_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF0997_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pokrov-chicago-2008/DSCF1016_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pokrov-chicago-2008/DSCF1016_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "st-panteleimon-day-2008",
+        "title":  "St. Panteleimon Day 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0195_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0195_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0195_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0196_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0196_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0204_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0204_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0207_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0207_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0217_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0217_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0222_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0222_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0223_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0223_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0224_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-panteleimon-day-2008/DSCF0224_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "st-seraphim-day-2008",
+        "title":  "St. Seraphim Day 2008",
+        "year":  2008,
+        "cover":  "assets/gallery-web/st-seraphim-day-2008/DSCF0134_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0134_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0134_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0135_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0135_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0138_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0138_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0150_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0150_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0152_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0152_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0174_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0174_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0178_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0178_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0235_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0235_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0236_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0236_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0237_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0237_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0243_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0243_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0249_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0249_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/st-seraphim-day-2008/DSCF0250_1-thumb.jpg",
+                           "large":  "assets/gallery-web/st-seraphim-day-2008/DSCF0250_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "feast-of-st-seraphim-2007",
+        "title":  "Feast of St. Seraphim 2007",
+        "year":  2007,
+        "cover":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0052-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0052-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0052-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0053-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0053-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0061-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0061-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0062-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0062-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0064-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0064-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0067-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0067-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0068-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0068-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0069-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0069-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0071-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-st-seraphim-2007/100_0071-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "feast-of-the-transfiguration-2007",
+        "title":  "Feast of the Transfiguration 2007",
+        "year":  2007,
+        "cover":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig04-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig04-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig04-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig05-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig05-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig06-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig06-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig07-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig07-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig08-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig08-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig10-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig10-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig12-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig12-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig15-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig15-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig16-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig16-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig17-thumb.jpg",
+                           "large":  "assets/gallery-web/feast-of-the-transfiguration-2007/Transfig17-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pascha-2007",
+        "title":  "Pascha 2007",
+        "year":  2007,
+        "cover":  "assets/gallery-web/pascha-2007/114_1455_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2007/114_1455_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2007/114_1455_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2007/114_1459_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2007/114_1459_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2007/114_1472_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2007/114_1472_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2007/114_1475_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2007/114_1475_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "dormition-2006",
+        "title":  "Dormition 2006",
+        "year":  2006,
+        "cover":  "assets/gallery-web/dormition-2006/Aug06Usp22_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/dormition-2006/Aug06Usp22_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-2006/Aug06Usp22_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/dormition-2006/Aug06Usp23_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-2006/Aug06Usp23_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/dormition-2006/Aug06usp24_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-2006/Aug06usp24_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/dormition-2006/Aug06Usp25_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-2006/Aug06Usp25_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/dormition-2006/Aug06Usp27_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-2006/Aug06Usp27_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "nativity-2006",
+        "title":  "Nativity 2006",
+        "year":  2006,
+        "cover":  "assets/gallery-web/nativity-2006/christmas1_2006-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/nativity-2006/christmas1_2006-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-2006/christmas1_2006-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-2006/christmas2_2006-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-2006/christmas2_2006-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-2006/christmas3_2006-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-2006/christmas3_2006-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/nativity-2006/jan080038_1-thumb.jpg",
+                           "large":  "assets/gallery-web/nativity-2006/jan080038_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pascha-2006",
+        "title":  "Pascha 2006",
+        "year":  2006,
+        "cover":  "assets/gallery-web/pascha-2006/Psc0003_2-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2006/Psc0003_2-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2006/Psc0003_2-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2006/Psc0005_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2006/Psc0005_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2006/Psc0009_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2006/Psc0009_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2006/Psc0012_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2006/Psc0012_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2006/Psc0013_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2006/Psc0013_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2006/Psc0014_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2006/Psc0014_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "procession-of-the-cross-2006",
+        "title":  "Procession of the Cross 2006",
+        "year":  2006,
+        "cover":  "assets/gallery-web/procession-of-the-cross-2006/Lent30005_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/procession-of-the-cross-2006/Lent30005_1-thumb.jpg",
+                           "large":  "assets/gallery-web/procession-of-the-cross-2006/Lent30005_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/procession-of-the-cross-2006/Lent30009_1-thumb.jpg",
+                           "large":  "assets/gallery-web/procession-of-the-cross-2006/Lent30009_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "transfiguration-2006",
+        "title":  "Transfiguration 2006",
+        "year":  2006,
+        "cover":  "assets/gallery-web/transfiguration-2006/Aug06Xfig13_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2006/Aug06Xfig13_1-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2006/Aug06Xfig13_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2006/Aug06Xfig14_1-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2006/Aug06Xfig14_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2006/Aug06Xfig16_1-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2006/Aug06Xfig16_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2006/Aug06Xfig18_1-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2006/Aug06Xfig18_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/transfiguration-2006/Aug06Xfig19_1-thumb.jpg",
+                           "large":  "assets/gallery-web/transfiguration-2006/Aug06Xfig19_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "wedding-2006",
+        "title":  "Wedding 2006",
+        "year":  2006,
+        "cover":  "assets/gallery-web/wedding-2006/wedding-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/wedding-2006/wedding-thumb.jpg",
+                           "large":  "assets/gallery-web/wedding-2006/wedding-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "dormition-feast-2005",
+        "title":  "Dormition Feast 2005",
+        "year":  2005,
+        "cover":  "assets/gallery-web/dormition-feast-2005/08280003_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/dormition-feast-2005/08280003_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-feast-2005/08280003_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/dormition-feast-2005/08280004_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-feast-2005/08280004_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/dormition-feast-2005/08280010_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-feast-2005/08280010_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/dormition-feast-2005/08280011_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-feast-2005/08280011_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/dormition-feast-2005/08280012_1-thumb.jpg",
+                           "large":  "assets/gallery-web/dormition-feast-2005/08280012_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "palm-sunday-2005",
+        "title":  "Palm Sunday 2005",
+        "year":  2005,
+        "cover":  "assets/gallery-web/palm-sunday-2005/pic042605_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2005/pic042605_1-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2005/pic042605_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2005/pic042605_2-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2005/pic042605_2-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2005/pic042605_3-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2005/pic042605_3-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/palm-sunday-2005/pic042605_4-thumb.jpg",
+                           "large":  "assets/gallery-web/palm-sunday-2005/pic042605_4-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pascha-2005",
+        "title":  "Pascha 2005",
+        "year":  2005,
+        "cover":  "assets/gallery-web/pascha-2005/PAS05_10-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_10-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_10-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_11-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_11-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_12-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_12-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_13-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_13-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_14-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_14-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_15-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_15-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_16-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_16-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_17-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_17-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_18-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_18-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_19-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_19-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_2-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_2-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_3-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_3-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_4-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_4-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_5-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_5-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_6-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_6-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_7-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_7-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_8-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_8-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pascha-2005/PAS05_9-thumb.jpg",
+                           "large":  "assets/gallery-web/pascha-2005/PAS05_9-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "pentecost-2004",
+        "title":  "Pentecost 2004",
+        "year":  2004,
+        "cover":  "assets/gallery-web/pentecost-2004/0504_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2004/0504_1-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2004/0504_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2004/0504_2-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2004/0504_2-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2004/0504_3-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2004/0504_3-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2004/0504_4-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2004/0504_4-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2004/0504_5-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2004/0504_5-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2004/0504_6-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2004/0504_6-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/pentecost-2004/0504_7-thumb.jpg",
+                           "large":  "assets/gallery-web/pentecost-2004/0504_7-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "archbishop-nikolai-visits-skete-on-his-travel",
+        "title":  "Archbishop Nikolai visits Skete on his travel through the Twin Cities",
+        "year":  0,
+        "cover":  "assets/gallery-web/archbishop-nikolai-visits-skete-on-his-travel/BpGtg2006FB_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/archbishop-nikolai-visits-skete-on-his-travel/BpGtg2006FB_1-thumb.jpg",
+                           "large":  "assets/gallery-web/archbishop-nikolai-visits-skete-on-his-travel/BpGtg2006FB_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/archbishop-nikolai-visits-skete-on-his-travel/BpGtg2006HB_1-thumb.jpg",
+                           "large":  "assets/gallery-web/archbishop-nikolai-visits-skete-on-his-travel/BpGtg2006HB_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "baptism",
+        "title":  "Baptism",
+        "year":  0,
+        "cover":  "assets/gallery-web/baptism/05110002_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110002_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110002_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110003_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110003_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110006_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110006_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110009_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110009_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110010_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110010_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110013_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110013_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110014_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110014_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110019_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110019_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/baptism/05110023_1-thumb.jpg",
+                           "large":  "assets/gallery-web/baptism/05110023_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "cross-decorated-for-the-feast-of-the-elevation",
+        "title":  "Cross decorated for the Feast of the Elevation",
+        "year":  0,
+        "cover":  "assets/gallery-web/cross-decorated-for-the-feast-of-the-elevation/Elev1B_1_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/cross-decorated-for-the-feast-of-the-elevation/Elev1B_1_1-thumb.jpg",
+                           "large":  "assets/gallery-web/cross-decorated-for-the-feast-of-the-elevation/Elev1B_1_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "everyday-life",
+        "title":  "Everyday Life at the Skete",
+        "year":  0,
+        "cover":  "assets/gallery-web/everyday-life/Gogel-Mogel-2-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/everyday-life/Gogel-Mogel-2-thumb.jpg",
+                           "large":  "assets/gallery-web/everyday-life/Gogel-Mogel-2-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/everyday-life/Gogel-Mogel-3-thumb.jpg",
+                           "large":  "assets/gallery-web/everyday-life/Gogel-Mogel-3-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/everyday-life/Gogel-Mogel-thumb.jpg",
+                           "large":  "assets/gallery-web/everyday-life/Gogel-Mogel-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/everyday-life/IMG00029-20110303-2032-thumb.jpg",
+                           "large":  "assets/gallery-web/everyday-life/IMG00029-20110303-2032-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "father-ioann-in-russia",
+        "title":  "Father Ioann in Russia",
+        "year":  0,
+        "cover":  "assets/gallery-web/father-ioann-in-russia/10-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/10-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/10-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/11-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/11-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/12-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/12-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/13-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/13-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/14-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/14-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/15-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/15-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/16-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/16-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/1-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/3-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/3-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/5-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/5-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/6-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/6-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/7-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/7-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/8-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/8-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/9-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/9-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/FRJohn_PermikinFoto-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/FRJohn_PermikinFoto-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-13-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-13-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-14-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-14-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-17-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-17-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-24-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-24-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-30-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-30-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-31-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-31-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-33-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-33-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-3-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-3-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/Image-5-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/Image-5-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/IMG_0702-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/IMG_0702-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/IMG_0706-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/IMG_0706-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/IMG_0707-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/IMG_0707-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/IMG_0710-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/IMG_0710-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/IMG_0730-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/IMG_0730-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/father-ioann-in-russia/IMG_1050-thumb.jpg",
+                           "large":  "assets/gallery-web/father-ioann-in-russia/IMG_1050-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "funeral-for-lyudmilla",
+        "title":  "Funeral for Lyudmilla",
+        "year":  0,
+        "cover":  "assets/gallery-web/funeral-for-lyudmilla/IMAG2222_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/funeral-for-lyudmilla/IMAG2222_1-thumb.jpg",
+                           "large":  "assets/gallery-web/funeral-for-lyudmilla/IMAG2222_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/funeral-for-lyudmilla/IMAG2223_1-thumb.jpg",
+                           "large":  "assets/gallery-web/funeral-for-lyudmilla/IMAG2223_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/funeral-for-lyudmilla/IMAG2226B_1-thumb.jpg",
+                           "large":  "assets/gallery-web/funeral-for-lyudmilla/IMAG2226B_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "kursk-root-icon-visit",
+        "title":  "Kursk Root Icon Visit",
+        "year":  0,
+        "cover":  "assets/gallery-web/kursk-root-icon-visit/Aug06Kursk05_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/kursk-root-icon-visit/Aug06Kursk05_1-thumb.jpg",
+                           "large":  "assets/gallery-web/kursk-root-icon-visit/Aug06Kursk05_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "mother-ioanna-sr-vera-reposes",
+        "title":  "Mother Ioanna (Sister Vera) Reposes",
+        "year":  0,
+        "cover":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/1989-Jim-Ann-sister-Vera-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/1989-Jim-Ann-sister-Vera-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/1989-Jim-Ann-sister-Vera-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Gr_Olga-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Gr_Olga-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Image02-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Image02-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/MVC-006S_XA-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/MVC-006S_XA-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/P1010010-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/P1010010-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Picture-006-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Picture-006-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Picture-008-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Picture-008-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/pix2-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/pix2-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Sister_Vera_EditA-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Sister_Vera_EditA-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Sister_Vera_Father-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Sister_Vera_Father-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Sister_Vera-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/Sister_Vera-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/SrVera082006-thumb.jpg",
+                           "large":  "assets/gallery-web/mother-ioanna-sr-vera-reposes/SrVera082006-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "soko-wedding",
+        "title":  "Soko Wedding",
+        "year":  0,
+        "cover":  "assets/gallery-web/soko-wedding/119_1921_1-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/soko-wedding/119_1921_1-thumb.jpg",
+                           "large":  "assets/gallery-web/soko-wedding/119_1921_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/soko-wedding/119_1922_1-thumb.jpg",
+                           "large":  "assets/gallery-web/soko-wedding/119_1922_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/soko-wedding/119_1927_1-thumb.jpg",
+                           "large":  "assets/gallery-web/soko-wedding/119_1927_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/soko-wedding/119_1933_1-thumb.jpg",
+                           "large":  "assets/gallery-web/soko-wedding/119_1933_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/soko-wedding/119_1936_1-thumb.jpg",
+                           "large":  "assets/gallery-web/soko-wedding/119_1936_1-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/soko-wedding/119_1978_1-thumb.jpg",
+                           "large":  "assets/gallery-web/soko-wedding/119_1978_1-lg.jpg"
+                       }
+                   ]
+    },
+    {
+        "slug":  "tony-tanya-wedding",
+        "title":  "Tony \u0026 Tanya Wedding",
+        "year":  0,
+        "cover":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-135B-thumb.jpg",
+        "photos":  [
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-135B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-135B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-137B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-137B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-141B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-141B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-149B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-149B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-17B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-17B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-185B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-185B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-57B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-57B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-75B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-75B-lg.jpg"
+                       },
+                       {
+                           "thumb":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-81B-thumb.jpg",
+                           "large":  "assets/gallery-web/tony-tanya-wedding/Tony--Tanya-White-81B-lg.jpg"
+                       }
+                   ]
+    }
+]

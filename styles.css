@@ -1,0 +1,1222 @@
+/*
+  Russian Orthodox Church and Skete of the Resurrection of Christ
+  Fridley (Minneapolis), Minnesota
+
+  Design language: burgundy and gold on parchment, over a sky-and-domes
+  background. The icon sits at the top-left of the page shell, a gold title
+  glows on the sky, a parchment menu bar sits beneath it, and the content
+  rides in a slightly translucent panel so the church shows through.
+*/
+
+:root {
+  --burgundy: #57191a;
+  --burgundy-dark: #2e0c0d;
+  --gold: #c9a227;
+  --gold-light: #e6cd85;
+  --gold-deep: #9c7b16;
+  --cream: #f9f2df;
+  --ink: #31251f;
+  --ink-soft: #5c4c42;
+  --panel-bg: #fdf8ea;
+  --rule: rgba(87, 25, 26, 0.16);
+  --serif: "Cormorant Garamond", Georgia, serif;
+  --sans: "PT Sans", "Segoe UI", sans-serif;
+  --shadow-sm: 0 3px 10px rgba(46, 12, 13, 0.15);
+  --shadow-md: 0 6px 20px rgba(46, 12, 13, 0.2);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--sans);
+  color: var(--ink);
+  background: #efe3c2 url("assets/bg-page.jpg") center top / cover fixed no-repeat;
+  line-height: 1.65;
+}
+
+a { color: var(--burgundy); text-decoration: none; }
+a:hover { color: var(--gold-deep); }
+
+img { max-width: 100%; display: block; }
+
+/* The grids below set `display`, which would otherwise defeat the hidden attribute. */
+[hidden] { display: none !important; }
+
+:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  background: var(--burgundy);
+  color: var(--cream);
+  padding: 0.7rem 1.2rem;
+  z-index: 200;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  color: var(--cream);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ---------- Page shell: centered column like the original ---------- */
+
+.page-shell {
+  width: 84%;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/* ---------- Language toggle ---------- */
+
+.lang-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--burgundy);
+}
+.lang-toggle button {
+  background: none;
+  border: none;
+  color: var(--burgundy);
+  font: inherit;
+  cursor: pointer;
+  padding: 0.15rem 0.35rem;
+  border-radius: 3px;
+  opacity: 0.6;
+}
+.lang-toggle button.active {
+  opacity: 1;
+  font-weight: 700;
+  outline: 1px solid var(--burgundy);
+}
+.lang-divider { opacity: 0.5; }
+
+.menu-btn {
+  display: none;
+  background: none;
+  border: 1px solid var(--burgundy);
+  border-radius: 4px;
+  color: var(--burgundy);
+  font-size: 1.3rem;
+  line-height: 1;
+  padding: 0.35rem 0.6rem;
+  cursor: pointer;
+  margin: 0.2rem 0.5rem 0.2rem 0;
+}
+
+/* ---------- Buttons ---------- */
+
+.btn {
+  display: inline-block;
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.03em;
+  padding: 0.55rem 1.15rem;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.btn:hover { transform: translateY(-1px); }
+
+.btn-gold {
+  background: linear-gradient(180deg, var(--gold-light), var(--gold));
+  color: var(--burgundy-dark);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+.btn-gold:hover { color: var(--burgundy-dark); box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35); }
+
+.btn-outline { border: 2px solid var(--burgundy); color: var(--burgundy); background: transparent; }
+.btn-outline:hover { background: var(--burgundy); color: var(--cream); }
+
+.btn-solid { background: var(--burgundy); color: var(--cream); }
+.btn-solid:hover { background: var(--burgundy-dark); color: var(--cream); }
+
+.btn-large { font-size: 1.1rem; padding: 0.8rem 1.8rem; }
+
+/* ---------- Header: icon at the left, gold title on the sky ---------- */
+
+.hero {
+  display: flex;
+  align-items: flex-end;
+  gap: 1.6rem;
+  padding: 1.4rem 2rem 0 0;
+  background: transparent;
+}
+
+/* The icon is a link on every page but the home page. Keep that link from
+   shrinking: it is the flex item, and if it narrows the icon inside it hits
+   the global `img { max-width: 100% }` and squeezes out of proportion. */
+.hero > a {
+  display: block;
+  flex: none;
+  line-height: 0;
+}
+
+.hero-icon {
+  height: 148px;
+  width: auto;
+  max-width: none;
+  filter: drop-shadow(0 8px 20px rgba(20, 40, 70, 0.55));
+  flex: none;
+}
+
+.hero-text {
+  max-width: 46rem;
+  padding-bottom: 0.55rem;
+}
+
+.hero-title {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: clamp(1.45rem, 3.2vw, 2.3rem);
+  line-height: 1.15;
+  color: var(--gold-light);
+  text-shadow:
+    0 2px 10px rgba(20, 40, 70, 0.9),
+    0 0 26px rgba(30, 58, 95, 0.65);
+}
+.hero-title a { color: inherit; }
+.hero-title a:hover { color: #fff3cf; }
+
+.hero-sub {
+  color: #fdf8ea;
+  font-size: clamp(0.9rem, 1.6vw, 1.02rem);
+  letter-spacing: 0.08em;
+  margin-top: 0.45rem;
+  text-shadow: 0 1px 8px rgba(20, 40, 70, 0.9);
+}
+
+/* ---------- Menu bar: parchment box, sticky ---------- */
+
+.menu-bar {
+  position: sticky;
+  top: 0;
+  z-index: 90;
+}
+
+.menu-box {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: linear-gradient(180deg, #fef9db 0%, #fef5c5 100%);
+  border: 1px solid #ffffff;
+  border-bottom: none;
+  border-radius: 5px 5px 0 0;
+  padding: 0.45rem 0.8rem 0.45rem 1rem;
+  position: relative;
+}
+
+.main-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.1rem;
+}
+
+.main-nav a {
+  font-family: var(--serif);
+  font-size: 1.06rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #4a1416;
+  padding: 0.4rem 0.7rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+.main-nav a:hover { background: rgba(87, 25, 26, 0.1); color: var(--burgundy-dark); }
+.main-nav a[aria-current="page"] {
+  background: rgba(87, 25, 26, 0.12);
+  color: var(--burgundy-dark);
+  box-shadow: inset 0 -2px 0 var(--gold);
+}
+
+.menu-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-left: auto;
+  flex: none;
+}
+
+/* ---------- Translucent body panel ---------- */
+
+.page-panel {
+  background: rgba(253, 252, 248, 0.72);
+  border: 1px solid #ffffff;
+  border-top: none;
+  border-radius: 0 0 7px 7px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+  overflow: hidden;
+  margin: 0 0 2.2rem;
+}
+
+/* Cards stay opaque so long-form text is effortless to read */
+.card, .this-week, .contact-info, .reading-card, .panel-card,
+.person-card, .album-card, .bulletin-list, .faq-item, .info-box,
+.welcome-panel {
+  background: #fffdf5;
+}
+
+/* ---------- Page intro (interior pages) ---------- */
+
+.page-intro {
+  text-align: center;
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 2.8rem 1.5rem 0;
+}
+.page-intro h1 {
+  font-family: var(--serif);
+  font-size: clamp(1.9rem, 4vw, 2.7rem);
+  color: var(--burgundy);
+  line-height: 1.15;
+}
+.page-intro h1::after {
+  content: "\2766";
+  display: block;
+  color: var(--gold);
+  font-size: 1.2rem;
+  margin-top: 0.35rem;
+}
+.page-intro .lede {
+  font-size: 1.12rem;
+  color: var(--ink-soft);
+  margin-top: 0.4rem;
+}
+
+/* ---------- Welcome (home) ---------- */
+
+.welcome {
+  text-align: center;
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1.5rem 1.5rem 0;
+}
+.welcome + .section { padding-top: 1.6rem; }
+.welcome-panel {
+  border-top: 3px solid var(--gold);
+  border-radius: 6px;
+  padding: 1.5rem 1.8rem 1.25rem;
+  box-shadow: var(--shadow-sm);
+}
+.welcome h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.6rem, 3.4vw, 2.2rem);
+  color: var(--burgundy);
+  margin-bottom: 0.55rem;
+}
+.welcome h2::after {
+  content: "\2766";
+  display: block;
+  color: var(--gold);
+  font-size: 1.3rem;
+  margin-top: 0.2rem;
+}
+.welcome p { font-size: 1.08rem; }
+.welcome-facts {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem 0.15rem;
+  margin-top: 1.05rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid rgba(201, 162, 39, 0.5);
+  font-family: var(--serif);
+  font-size: 1.02rem;
+  color: var(--burgundy);
+}
+.welcome-facts li:not(:last-child)::after {
+  content: "\00b7";
+  color: var(--gold);
+  margin: 0 0.7rem;
+  font-weight: 700;
+}
+
+/* ---------- Sections ---------- */
+
+.section {
+  max-width: 66rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 0.5rem;
+  scroll-margin-top: 7rem;
+}
+.section-narrow { max-width: 48rem; }
+.section-last { padding-bottom: 3rem; }
+
+.section-title {
+  font-family: var(--serif);
+  font-size: clamp(1.7rem, 3.6vw, 2.3rem);
+  color: var(--burgundy);
+  text-align: center;
+  margin-bottom: 1.6rem;
+}
+.section-title::after {
+  content: "\2766";
+  display: block;
+  color: var(--gold);
+  font-size: 1.3rem;
+  margin-top: 0.2rem;
+}
+
+.subsection-title {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  color: var(--burgundy);
+  margin: 2rem 0 0.7rem;
+}
+
+/* ---------- Service cards ---------- */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+}
+
+.card {
+  border-top: 3px solid var(--gold);
+  border-radius: 6px;
+  padding: 1.4rem 1.2rem;
+  text-align: center;
+  box-shadow: var(--shadow-sm);
+}
+.card-day {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--burgundy);
+}
+.card-time {
+  font-family: var(--serif);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--burgundy);
+  margin: 0.2rem 0;
+}
+.card-name { font-weight: 700; }
+.card-note { font-size: 0.9rem; color: var(--ink-soft); margin-top: 0.35rem; }
+
+/* ---------- Upcoming services / events ---------- */
+
+.this-week {
+  margin-top: 2.2rem;
+  border-radius: 6px;
+  padding: 1.6rem 1.8rem;
+  box-shadow: var(--shadow-sm);
+}
+.this-week h3 {
+  font-family: var(--serif);
+  font-size: 1.5rem;
+  color: var(--burgundy);
+  margin-bottom: 0.8rem;
+}
+
+.event-list { list-style: none; }
+.event-list li {
+  display: flex;
+  gap: 1rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.event-list li:last-child { border-bottom: none; }
+.event-date { flex: 0 0 9rem; font-weight: 700; color: var(--burgundy); }
+.event-desc .event-feast { display: block; color: var(--ink-soft); font-size: 0.95rem; }
+
+.this-week-links, .prose-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 1.1rem;
+  font-weight: 700;
+}
+
+.empty-note { color: var(--ink-soft); font-style: italic; }
+
+/* ---------- Prose ---------- */
+
+.prose { max-width: 46rem; margin: 0 auto; font-size: 1.06rem; }
+.prose p + p { margin-top: 1rem; }
+.prose h3 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  color: var(--burgundy);
+  margin: 1.8rem 0 0.5rem;
+}
+.prose ul, .prose ol { margin: 0.8rem 0 0.8rem 1.4rem; }
+.prose li { margin-bottom: 0.45rem; }
+.prose blockquote {
+  border-left: 4px solid var(--gold);
+  padding: 0.4rem 0 0.4rem 1.2rem;
+  margin: 1.2rem 0;
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+/* ---------- Info box / callout ---------- */
+
+.info-box {
+  border-left: 4px solid var(--gold);
+  border-radius: 0 6px 6px 0;
+  padding: 1.2rem 1.5rem;
+  box-shadow: var(--shadow-sm);
+  margin: 1.5rem auto;
+  max-width: 46rem;
+}
+.info-box h3 {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  color: var(--burgundy);
+  margin-bottom: 0.4rem;
+}
+
+/* ---------- Feature band: photo beside text ---------- */
+
+.feature {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  max-width: 66rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 0.5rem;
+}
+.feature-reverse .feature-media { order: 2; }
+.feature-media img {
+  width: 100%;
+  height: 100%;
+  max-height: 26rem;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 3px solid #fff;
+  box-shadow: var(--shadow-md);
+}
+.feature-body h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  color: var(--burgundy);
+  margin-bottom: 0.7rem;
+}
+.feature-body p + p { margin-top: 0.8rem; }
+.feature-body .btn { margin-top: 1.1rem; }
+
+/* ---------- Reading card ---------- */
+
+.reading-card {
+  max-width: 46rem;
+  margin: 0 auto;
+  border-left: 4px solid var(--gold);
+  border-radius: 0 6px 6px 0;
+  padding: 1.5rem 1.8rem;
+  box-shadow: var(--shadow-sm);
+}
+.reading-label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--gold-deep);
+  margin-bottom: 0.5rem;
+}
+.reading-text {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  font-style: italic;
+  margin-bottom: 0.8rem;
+}
+.reading-card a { font-weight: 700; }
+
+/* ---------- People (clergy & council) ---------- */
+
+.person-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.2rem;
+}
+.person-card {
+  border-top: 3px solid var(--gold);
+  border-radius: 6px;
+  padding: 1.3rem 1.3rem;
+  box-shadow: var(--shadow-sm);
+}
+.person-card img {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid var(--gold);
+  margin-bottom: 0.7rem;
+}
+.person-card--clergy {
+  padding: 0 0 1.3rem;
+  overflow: hidden;
+}
+.person-card--clergy .person-role,
+.person-card--clergy .person-name,
+.person-card--clergy .person-note {
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+}
+.person-card .person-photo {
+  display: block;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center 18%;
+  border-radius: 0;
+  border: none;
+  border-bottom: 2px solid var(--gold);
+  margin-bottom: 1rem;
+}
+.person-card .person-photo--left {
+  object-position: 18% 35%;
+}
+/* Wrapper the script puts around a data-zoom image: a button that takes up no
+   room of its own, so the picture keeps the size and crop it already had. */
+.zoom-btn {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: inherit;
+  cursor: zoom-in;
+}
+.zoom-btn:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 2px;
+}
+.person-card .zoom-btn { height: auto; }
+.person-card .zoom-btn:hover .person-photo { filter: brightness(1.05); }
+.feature-media .zoom-btn:hover img { box-shadow: var(--shadow-lg, var(--shadow-md)); }
+/* Hierarch headshots are tall portraits; hold the crop on the face. */
+#hierarchy .person-photo {
+  height: 240px;
+  object-position: center 28%;
+}
+.person-name {
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--burgundy);
+}
+.person-role {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gold-deep);
+  margin-bottom: 0.4rem;
+}
+.person-note { font-size: 0.95rem; color: var(--ink-soft); }
+
+/* ---------- Photo gallery ---------- */
+
+.album-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.3rem;
+}
+.album-card {
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  border: 1px solid rgba(87, 25, 26, 0.1);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  display: block;
+  color: inherit;
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  font: inherit;
+  padding: 0;
+}
+.album-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); color: inherit; }
+.album-cover {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: #e8dcc0;
+}
+.album-meta { display: block; padding: 0.85rem 1rem 0.95rem; }
+.album-title {
+  display: block;
+  font-family: var(--serif);
+  font-size: 1.18rem;
+  font-weight: 700;
+  color: var(--burgundy);
+  line-height: 1.3;
+}
+/* Its own line, so a title ending in a year can never run into the count. */
+.album-count {
+  display: block;
+  margin-top: 0.3rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-soft);
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 0.8rem;
+}
+.photo-grid button {
+  border: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+.photo-grid img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  transition: transform 0.2s ease;
+  background: #e8dcc0;
+}
+.photo-grid button:hover img { transform: scale(1.04); }
+
+.gallery-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.3rem;
+}
+.gallery-back {
+  font-weight: 700;
+  background: none;
+  border: none;
+  color: var(--burgundy);
+  font-family: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.3rem 0;
+}
+.gallery-heading {
+  font-family: var(--serif);
+  font-size: 1.6rem;
+  color: var(--burgundy);
+}
+
+/* Lightbox */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 12, 10, 0.93);
+  z-index: 200;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 3.5rem 1rem 4.5rem;
+}
+.lightbox.open { display: flex; }
+.lightbox img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
+}
+.lightbox-close, .lightbox-prev, .lightbox-next {
+  position: absolute;
+  background: rgba(249, 242, 223, 0.12);
+  border: 1px solid rgba(249, 242, 223, 0.35);
+  color: var(--cream);
+  font-size: 1.6rem;
+  line-height: 1;
+  padding: 0.5rem 0.9rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.lightbox-close { top: 1rem; right: 1rem; }
+.lightbox-prev { left: 1rem; top: 50%; transform: translateY(-50%); }
+.lightbox-next { right: 1rem; top: 50%; transform: translateY(-50%); }
+.lightbox-close:hover, .lightbox-prev:hover, .lightbox-next:hover {
+  background: rgba(249, 242, 223, 0.28);
+}
+.lightbox-caption {
+  position: absolute;
+  bottom: 1.2rem;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: rgba(249, 242, 223, 0.85);
+  font-size: 0.95rem;
+  padding: 0 1rem;
+}
+
+/* ---------- Bulletins ---------- */
+
+.year-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+.year-filter button {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--burgundy);
+  background: rgba(255, 253, 245, 0.85);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 0.35rem 0.8rem;
+  cursor: pointer;
+}
+.year-filter button:hover { background: #fff; }
+.year-filter button.active {
+  background: var(--burgundy);
+  border-color: var(--burgundy);
+  color: var(--cream);
+}
+
+.bulletin-list {
+  list-style: none;
+  border-radius: 6px;
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  max-width: 46rem;
+  margin: 0 auto;
+}
+.bulletin-list li {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.85rem 1.3rem;
+  border-bottom: 1px solid var(--rule);
+}
+.bulletin-list li:last-child { border-bottom: none; }
+.bulletin-list .bul-date { font-weight: 700; color: var(--burgundy); flex: 0 0 11rem; }
+.bulletin-list .bul-link { margin-left: auto; white-space: nowrap; font-weight: 700; }
+
+/* ---------- Readings list ---------- */
+
+.reading-list { list-style: none; max-width: 46rem; margin: 0 auto; }
+.reading-list li {
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.reading-list li:last-child { border-bottom: none; }
+.reading-list a { font-family: var(--serif); font-size: 1.2rem; font-weight: 600; }
+.reading-list .reading-lang {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gold-deep);
+  margin-left: 0.5rem;
+}
+.reading-list .reading-source {
+  display: block;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  margin-top: 0.15rem;
+}
+
+.reading-search {
+  max-width: 46rem;
+  margin: 0 auto 1.4rem;
+}
+.reading-search label {
+  display: block;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--gold-deep);
+  margin-bottom: 0.35rem;
+}
+.reading-search input {
+  width: 100%;
+  font-family: var(--sans);
+  font-size: 1rem;
+  color: var(--ink);
+  background: rgba(255, 253, 245, 0.9);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 0.55rem 0.8rem;
+}
+.reading-search input:focus {
+  outline: 2px solid var(--gold);
+  outline-offset: 1px;
+}
+.reading-count {
+  max-width: 46rem;
+  margin: 0 auto 0.6rem;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+}
+
+/* ---------- A single reading ---------- */
+
+.reading-article {
+  max-width: 42rem;
+  margin: 0 auto;
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+.reading-article p + p { margin-top: 1.05rem; }
+.reading-article p { text-align: left; overflow-wrap: break-word; }
+.reading-article strong { color: var(--burgundy); }
+
+/* Section headings inside a reading. On the old site these were ordinary
+   lines of text, sometimes shouted in capitals; here they are set as headings
+   so a reader can find their place on a small screen. */
+.reading-heading {
+  font-family: var(--serif);
+  font-size: 1.22rem;
+  font-weight: 700;
+  color: var(--burgundy);
+  line-height: 1.35;
+  margin: 2.1rem 0 0.75rem;
+}
+.reading-heading:first-child { margin-top: 0; }
+.reading-article > .reading-heading::after {
+  content: "";
+  display: block;
+  width: 2.4rem;
+  height: 2px;
+  margin-top: 0.5rem;
+  background: var(--gold);
+}
+
+/* The occasion a homily was preached on, and the Gospel and Epistle appointed
+   for it, which head several of these pieces before the sermon begins. */
+.reading-dayline {
+  font-family: var(--serif);
+  font-size: 1.14rem;
+  font-weight: 700;
+  color: var(--burgundy);
+  line-height: 1.35;
+}
+.reading-dayline + .reading-dayline { margin-top: 0.1rem; }
+.reading-dayline + .reading-citation { margin-top: 0.55rem; }
+
+.reading-citation {
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  margin-bottom: 0.2rem;
+}
+.reading-citation + .reading-citation { margin-top: 0.1rem; }
+/* Close the header off before the sermon itself. */
+.reading-citation + p:not([class]) {
+  margin-top: 1.4rem;
+  padding-top: 1.3rem;
+  border-top: 1px solid var(--rule);
+}
+
+.reading-byline {
+  font-style: italic;
+  color: var(--ink-soft);
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.reading-figure {
+  float: right;
+  width: 190px;
+  max-width: 42%;
+  margin: 0.3rem 0 1rem 1.6rem;
+}
+.reading-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  border: 3px solid #fff;
+  box-shadow: var(--shadow-sm);
+}
+
+.reading-attribution {
+  margin-top: 1.6rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+/* Says plainly that a text was translated for this site and not yet checked. */
+.translation-note {
+  max-width: 42rem;
+  margin: 0 auto 1.6rem;
+  background: rgba(212, 175, 91, 0.13);
+  border-left: 4px solid var(--gold);
+  border-radius: 0 4px 4px 0;
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+}
+
+.reading-footer-nav {
+  max-width: 42rem;
+  margin: 2.4rem auto 0;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--rule);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem 1.4rem;
+  justify-content: space-between;
+  font-size: 0.95rem;
+}
+.reading-footer-nav .reading-prev,
+.reading-footer-nav .reading-next { max-width: 46%; }
+.reading-footer-nav .reading-next { text-align: right; margin-left: auto; }
+
+@media (max-width: 700px) {
+  .reading-figure { float: none; width: 100%; max-width: 260px; margin: 0 auto 1.2rem; }
+  .reading-footer-nav .reading-prev,
+  .reading-footer-nav .reading-next { max-width: 100%; text-align: left; margin-left: 0; }
+}
+
+/* ---------- FAQ / accordion ---------- */
+
+.faq { max-width: 46rem; margin: 0 auto; }
+.faq-item {
+  border-radius: 6px;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 0.8rem;
+  overflow: hidden;
+}
+.faq-item summary {
+  font-family: var(--serif);
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--burgundy);
+  padding: 0.9rem 1.3rem;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::before {
+  content: "+";
+  color: var(--gold-deep);
+  font-weight: 700;
+  flex: none;
+}
+.faq-item[open] summary::before { content: "\2013"; }
+.faq-body { padding: 0 1.3rem 1.1rem; }
+.faq-body p + p { margin-top: 0.7rem; }
+
+/* ---------- Contact ---------- */
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 1.8rem;
+  align-items: start;
+}
+.contact-info {
+  border-radius: 6px;
+  padding: 1.6rem 1.8rem;
+  box-shadow: var(--shadow-sm);
+}
+.contact-line { margin-bottom: 1rem; }
+.contact-line strong { color: var(--burgundy); }
+/* ---------- Hand-drawn directions map ---------- */
+
+.directions-map {
+  max-width: 34rem;
+  margin: 1.6rem auto 0;
+  background: #fffdf5;
+  border-radius: 6px;
+  box-shadow: var(--shadow-sm);
+  padding: 1.2rem 1.2rem 1rem;
+  text-align: center;
+}
+.directions-map img {
+  width: 100%;
+  height: auto;
+  max-width: 499px;
+  margin: 0 auto;
+  border-radius: 3px;
+}
+.directions-map figcaption {
+  font-size: 0.94rem;
+  color: var(--ink-soft);
+  margin-top: 0.9rem;
+  text-align: left;
+}
+
+.contact-map iframe {
+  width: 100%;
+  height: 340px;
+  border: 3px solid var(--gold);
+  border-radius: 6px;
+  box-shadow: var(--shadow-sm);
+}
+
+/* ---------- Generic panel card ---------- */
+
+.panel-card {
+  border-radius: 6px;
+  padding: 1.6rem 1.8rem;
+  box-shadow: var(--shadow-sm);
+}
+.panel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.2rem;
+}
+.panel-card h3 {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  color: var(--burgundy);
+  margin-bottom: 0.5rem;
+}
+
+/* ---------- Donate ---------- */
+
+.donate-band {
+  margin-top: 2.5rem;
+  text-align: center;
+  padding: 3rem 1.5rem 3.4rem;
+  background: linear-gradient(180deg, rgba(87, 25, 26, 0.94), rgba(46, 12, 13, 0.96));
+  border-top: 3px solid var(--gold);
+  color: var(--cream);
+}
+.donate-band h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.6rem, 3.4vw, 2.2rem);
+  margin-bottom: 0.6rem;
+}
+.donate-band p { max-width: 40rem; margin: 0 auto 1.4rem; }
+.donate-band a:not(.btn) { color: var(--gold-light); text-decoration: underline; }
+
+/* ---------- Footer ---------- */
+
+.site-footer {
+  background: var(--burgundy-dark);
+  color: rgba(249, 242, 223, 0.78);
+  font-size: 0.94rem;
+  padding: 2.4rem 1.5rem 2rem;
+}
+.footer-prayer {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--gold-light);
+  text-align: center;
+  margin-bottom: 1.8rem;
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1.6rem;
+  max-width: 1100px;
+  margin: 0 auto 1.8rem;
+}
+.footer-grid h3 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  color: var(--gold-light);
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.03em;
+}
+.footer-grid a { color: rgba(249, 242, 223, 0.82); }
+.footer-grid a:hover { color: var(--gold-light); }
+.footer-grid ul { list-style: none; }
+.footer-grid li { margin-bottom: 0.3rem; }
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid rgba(249, 242, 223, 0.18);
+  padding-top: 1.2rem;
+  font-size: 0.88rem;
+  color: rgba(249, 242, 223, 0.62);
+}
+
+/* ---------- Mobile ---------- */
+
+/* Between the full-width bar and the mobile menu at 900px, eight nav items in
+   Russian ("Богослужения", "Фотографии") no longer fit on one row. Tighten the
+   type rather than let a single link drop to a second line. */
+@media (max-width: 1200px) {
+  .main-nav a { font-size: 0.94rem; padding: 0.4rem 0.3rem; letter-spacing: 0.015em; }
+}
+
+/* The menu folds into the button earlier than the rest of the layout changes:
+   eight links in Russian need roughly 1100px of window, and a bar that has
+   wrapped onto two rows looks worse than the button does. */
+@media (max-width: 1090px) {
+  .menu-btn { display: block; }
+  .menu-box { flex-wrap: wrap; padding-left: 0.6rem; }
+  .main-nav { display: none; width: 100%; order: 3; }
+  .main-nav.open { display: flex; flex-direction: column; gap: 0; padding-bottom: 0.3rem; }
+  .main-nav.open a { font-size: 1rem; padding: 0.65rem 0.5rem; border-bottom: 1px solid var(--rule); }
+  .main-nav.open a:last-child { border-bottom: none; }
+  .menu-actions { margin-left: auto; }
+}
+
+@media (max-width: 900px) {
+  .page-shell { width: 94%; }
+  .contact-grid { grid-template-columns: 1fr; }
+  .feature { grid-template-columns: 1fr; gap: 1.2rem; }
+  .feature-reverse .feature-media { order: 0; }
+  .event-list li { flex-direction: column; gap: 0.1rem; }
+  .event-date { flex: none; }
+  .bulletin-list li { flex-wrap: wrap; gap: 0.4rem 1rem; }
+  .bulletin-list .bul-date { flex: 0 0 100%; }
+  .bulletin-list .bul-link { margin-left: 0; }
+}
+
+@media (max-width: 700px) {
+  .hero { padding: 1rem 0.5rem 0 0; gap: 1rem; align-items: center; }
+  .hero-icon { height: 96px; }
+  .hero-title { font-size: 1.25rem; }
+  .hero-sub { font-size: 0.82rem; letter-spacing: 0.05em; }
+  .page-panel { margin: 0 0 1.4rem; }
+  .section { padding: 2.2rem 1rem 0.5rem; }
+  .page-intro { padding: 2rem 1rem 0; }
+  .welcome { padding: 1.15rem 1rem 0; }
+  .welcome + .section { padding-top: 1.2rem; }
+  .welcome-panel { padding: 1.25rem 1.15rem 1.1rem; }
+  .this-week, .contact-info, .panel-card { padding: 1.2rem 1.1rem; }
+  .lightbox { padding: 3.5rem 0.5rem 4rem; }
+
+  /* A long article is read on a phone more often than anywhere else: give the
+     lines a little more air and let the headings sit closer to their text. */
+  .reading-article { font-size: 1.06rem; line-height: 1.78; }
+  .reading-article p + p { margin-top: 1.15rem; }
+  .reading-heading { font-size: 1.12rem; margin: 1.85rem 0 0.6rem; }
+  .reading-citation { font-size: 0.82rem; letter-spacing: 0.06em; }
+  .reading-article, .translation-note, .reading-footer-nav { max-width: 100%; }
+}
+
+@media print {
+  body { background: #fff; }
+  .menu-bar, .donate-band, .lightbox, .menu-actions { display: none; }
+  .page-panel { background: #fff; box-shadow: none; border: none; }
+  .hero-title, .hero-sub { color: #000; text-shadow: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+  html { scroll-behavior: auto; }
+}

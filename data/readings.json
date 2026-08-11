@@ -1,0 +1,394 @@
+[
+    {
+        "slug":  "xenia",
+        "href":  "xenia.html",
+        "en":  "Blessed Xenia of St. Petersburg (Jan 24/Feb 6)",
+        "ru":  "Блаженная Ксения Петербургская (24 января / 6 февраля)",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "pominoveni",
+        "href":  "pominoveni.html",
+        "en":  "Commemoration of the Departed",
+        "ru":  "Поминовение",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "discoursenativitytheotokos",
+        "href":  "discoursenativitytheotokos.html",
+        "en":  "Excerpts From A Discourse on the Nativity of the Theotokos",
+        "ru":  "Отрывки из Слова на Рождество Пресвятой Богородицы",
+        "srcEn":  "By St. Andrew, Archbishop of Crete",
+        "srcRu":  "св. Андрей, архиепископ Критский"
+    },
+    {
+        "slug":  "godisfire",
+        "href":  "godisfire.html",
+        "en":  "God is Fire — by Saint John of Shanghai and San Francisco",
+        "ru":  "Бог есть огонь — святитель Иоанн Шанхайский и Сан-Францисский",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "feastangmich",
+        "href":  "feastangmich.html",
+        "en":  "Homily for the Feast of St Archangel Michael",
+        "ru":  "Слово на праздник святого Архистратига Михаила",
+        "srcEn":  "St. John of Kronstadt",
+        "srcRu":  "св. праведный Иоанн Кронштадтский"
+    },
+    {
+        "slug":  "kissicon",
+        "href":  "kissicon.html",
+        "en":  "How One Should Venerate an Icon",
+        "ru":  "Как следует целовать икону",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "conductinchurch",
+        "href":  "conductinchurch.html",
+        "en":  "How We Should Conduct Ourselves in Church: Communion and After",
+        "ru":  "Как нам вести себя в храме: причащение и после Литургии",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "how2",
+        "href":  "how2.html",
+        "en":  "How We Should Conduct Ourselves in Church: Entering and Standing",
+        "ru":  "Как нам вести себя в храме: вход и стояние",
+        "srcEn":  "(Fr. John Whitford)",
+        "srcRu":  "(прот. Иоанн Уитфорд)"
+    },
+    {
+        "slug":  "mothersday",
+        "href":  "mothersday.html",
+        "en":  "Mother’s Day",
+        "ru":  "День матери",
+        "srcEn":  "(from the Orthodox Herald)",
+        "srcRu":  "(из «Православного вестника»)"
+    },
+    {
+        "slug":  "kingdom",
+        "href":  "kingdom.html",
+        "en":  "On the Kingdom of Heaven (The Transfiguration of the Lord)",
+        "ru":  "О Царствии Небесном (Преображение Господне)",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "allsaints",
+        "href":  "allsaints.html",
+        "en":  "On the Kingdom of Heaven and the Earthly Kingdom",
+        "ru":  "О Царствии Небесном и царстве земном",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "mysteryjudgementsaints",
+        "href":  "mysteryjudgementsaints.html",
+        "en":  "On the Mystery and the Judgement of the Saints",
+        "ru":  "О тайне и о суде святых",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "sundaymyhrrbearers",
+        "href":  "sundaymyhrrbearers.html",
+        "en":  "On the Sunday of the Myrrh-bearers",
+        "ru":  "В Неделю жён-мироносиц",
+        "srcEn":  "Fr Andrew Phillips",
+        "srcRu":  "Прот. Эндрю Филлипс"
+    },
+    {
+        "slug":  "thomas",
+        "href":  "thomas.html",
+        "en":  "On Thomas",
+        "ru":  "О Фоме",
+        "srcEn":  "Fr Andrew Phillips, “Orthodox England”",
+        "srcRu":  "Прот. Эндрю Филлипс, «Православная Англия»"
+    },
+    {
+        "slug":  "ontrinitysun",
+        "href":  "ontrinitysun.html",
+        "en":  "On Trinity Sunday",
+        "ru":  "В День Святой Троицы",
+        "srcEn":  "Fr. Andrew Phillips Sts Felix \u0026 Edmund Orthodox Church, Felixstowe, England",
+        "srcRu":  "прот. Эндрю Филлипс, храм свв. Феликса и Эдмунда, Феликсстоу, Англия"
+    },
+    {
+        "slug":  "outerappearance",
+        "href":  "outerappearance.html",
+        "en":  "Outward Appearance",
+        "ru":  "Внешний Вид",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "prayertoseraphim",
+        "href":  "prayertoseraphim.html",
+        "en":  "Prayer to Saint Seraphim, Wonderworker of Sarov",
+        "ru":  "Молитва преподобному Серафиму, Саровскому чудотворцу",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "preperationsconfession",
+        "href":  "preperationsconfession.html",
+        "en":  "Preparation for Confession - 3rd and 4th Commandments",
+        "ru":  "Подготовка к исповеди — третья и четвёртая заповеди",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "prepareforlent",
+        "href":  "prepareforlent.html",
+        "en":  "Preparing for Great Lent",
+        "ru":  "Приготовление к Великому посту",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "prepentertemple",
+        "href":  "prepentertemple.html",
+        "en":  "Preparing to Visit the Church",
+        "ru":  "Подготовка к Посещению Храма",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "radonitsa",
+        "href":  "radonitsa.html",
+        "en":  "Radonitsa",
+        "ru":  "Радоница",
+        "srcEn":  "Gregory Orloff",
+        "srcRu":  "Григорий Орлов"
+    },
+    {
+        "slug":  "rulescommunion",
+        "href":  "rulescommunion.html",
+        "en":  "Rules for Those Approaching Confession",
+        "ru":  "Правила для исповедников",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "rulescommunion2",
+        "href":  "rulescommunion2.html",
+        "en":  "Rules for Those Approaching Confession (Part 2)",
+        "ru":  "Правила для исповедников (часть 2)",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "ignatius",
+        "href":  "ignatius.html",
+        "en":  "Saint Ignatius (Brianchaninov)",
+        "ru":  "Святитель Игнатий (Брянчанинов)",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "pageeditor",
+        "href":  "pageeditor.html",
+        "en":  "Saint Sergius of Radonezh",
+        "ru":  "Преподобный Сергий Радонежский",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "artos",
+        "href":  "artos.html",
+        "en":  "The Artos — a Symbol of the Suffering Jesus, the True Bread of Life",
+        "ru":  "Артос - символ пострадавшего Иисуса, истинного хлеба жизни",
+        "srcEn":  "http://www.rian.ru/spravka/20070414/63634542.html 14/04/2007 08:13",
+        "srcRu":  "http://www.rian.ru/spravka/20070414/63634542.html 14/04/2007 08:13"
+    },
+    {
+        "slug":  "ascension",
+        "href":  "ascension.html",
+        "en":  "The Ascension of our Lord",
+        "ru":  "Вознесение Господне",
+        "srcEn":  "(excerpted from St Vladimir\u0027s Seminary Quarterly, Vol. 2 # 3, 1954.)",
+        "srcRu":  "(отрывок из «St Vladimir\u0027s Seminary Quarterly», т. 2, № 3, 1954 г.)"
+    },
+    {
+        "slug":  "epiphanymiracle",
+        "href":  "epiphanymiracle.html",
+        "en":  "The Biblical miracle recurs on the Jordan during the Epiphany Day",
+        "ru":  "Библейское чудо вновь совершается на Иордане в день Богоявления",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "peter",
+        "href":  "peter.html",
+        "en":  "The Celebration in Honor of Saints Peter, Alexis and Jonah, Metropolitans and Wonderworkers of All Russia",
+        "ru":  "Празднование в честь всероссийских святителей Петра, Алексия и Ионы",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "dormitionfast",
+        "href":  "dormitionfast.html",
+        "en":  "The Dormition Fast",
+        "ru":  "Успенский пост",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "appearancemary",
+        "href":  "appearancemary.html",
+        "en":  "The Entry into the Temple of Our Most Holy Lady the Theotokos and Ever-Virgin Mary",
+        "ru":  "Введение во храм Пресвятой Богородицы и Приснодевы Марии",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "entrytemple",
+        "href":  "entrytemple.html",
+        "en":  "The Entry into the Temple of the Most Holy Theotokos",
+        "ru":  "Введение во храм Пресвятой Богородицы",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "stgeorge",
+        "href":  "stgeorge.html",
+        "en":  "The Great Martyr George the Trophy-bearer",
+        "ru":  "Великомученик Георгий Победоносец",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "kosmosdamian",
+        "href":  "kosmosdamian.html",
+        "en":  "The Holy Unmercenaries Cosmas and Damian of Asia Minor",
+        "ru":  "Святые бессребреники Косма и Дамиан Азийские",
+        "srcEn":  "(article from fatheralexander.org)",
+        "srcRu":  "(статья с сайта fatheralexander.org)"
+    },
+    {
+        "slug":  "stjohn",
+        "href":  "stjohn.html",
+        "en":  "The Holy, Glorious All-laudable Apostle and Evangelist John the Theologian",
+        "ru":  "Святой славный и всехвальный апостол и евангелист Иоанн Богослов",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "momonians",
+        "href":  "momonians.html",
+        "en":  "The Lost Generation (or, Who are the Mammonians)",
+        "ru":  "Потерянное поколение (или кто такие маммонисты)",
+        "srcEn":  "by the Very Rev. Vladimir Berzonsky",
+        "srcRu":  "протоиерей Владимир Берзонский"
+    },
+    {
+        "slug":  "missedvespers",
+        "href":  "missedvespers.html",
+        "en":  "The Missed Vespers",
+        "ru":  "Пропущенная вечерня",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "mysterycommunion",
+        "href":  "mysterycommunion.html",
+        "en":  "The Mystery (Sacrament) of Communion",
+        "ru":  "Таинство Причащения",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "mysteryrepent",
+        "href":  "mysteryrepent.html",
+        "en":  "The Mystery (Sacrament) of Repentance: Confession in Church",
+        "ru":  "Таинство Покаяния: Исповедь в Храме",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "mystrepentgenandprivate",
+        "href":  "mystrepentgenandprivate.html",
+        "en":  "The Mystery (Sacrament) of Repentance: General and Private Confession",
+        "ru":  "Таинство Покаяния: Общая и Частная Исповедь",
+        "srcEn":  "Fr. Andrew Phillips Sts Felix \u0026 Edmund Orthodox Church, Felixstowe, England",
+        "srcRu":  "Fr. Andrew Phillips Sts Felix \u0026 Edmund Orthodox Church, Felixstowe, England"
+    },
+    {
+        "slug":  "mysteryrepentance1",
+        "href":  "mysteryrepentance1.html",
+        "en":  "The Mystery of Repentance: Confession (1)",
+        "ru":  "Таинство Покаяния: Исповедь (1)",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "smolenskicon",
+        "href":  "smolenskicon.html",
+        "en":  "The Smolensk Icon of the Mother of God, called “Hodigitria”",
+        "ru":  "Смоленская икона Божией Матери, именуемая «Одигитрия»",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "exaltcross",
+        "href":  "exaltcross.html",
+        "en":  "The Universal Exaltation of the Precious and Life-Giving Cross",
+        "ru":  "Всемирное Воздвижение Честного и Животворящего Креста Господня",
+        "srcEn":  "(From the Synaxarion)",
+        "srcRu":  "(из Синаксаря)"
+    },
+    {
+        "slug":  "theophan",
+        "href":  "theophan.html",
+        "en":  "Theophan the Recluse. Thoughts for Each Day of the Year.",
+        "ru":  "Феофан Затворник. Мысли на каждый день года.",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "bogoyavleniye",
+        "href":  "bogoyavleniye.html",
+        "en":  "Theophany",
+        "ru":  "Богоявление",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "doubtingtom",
+        "href":  "doubtingtom.html",
+        "en":  "Thomas Sunday — Antipascha",
+        "ru":  "О блаженном неверии. Неделя 2-я по Пасхе. Ин. 20, 19—31",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "training",
+        "href":  "training.html",
+        "en":  "Training",
+        "ru":  "Тренировка",
+        "srcEn":  "Kirill Kharatyan",
+        "srcRu":  "Кирилл Харатьян"
+    },
+    {
+        "slug":  "orthodoxy",
+        "href":  "orthodoxy.html",
+        "en":  "What Do We Mean by the Word Orthodox?",
+        "ru":  "Что мы разумеем под словом «православный»?",
+        "srcEn":  "",
+        "srcRu":  ""
+    },
+    {
+        "slug":  "prelest",
+        "href":  "prelest.html",
+        "en":  "What Is \"Prelest\"?",
+        "ru":  "Что такое «прелесть»?",
+        "srcEn":  "",
+        "srcRu":  ""
+    }
+]

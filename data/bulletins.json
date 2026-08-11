@@ -1,0 +1,3714 @@
+[
+    {
+        "label":  "June 21, 2026",
+        "date":  "2026-06-21",
+        "year":  "2026",
+        "file":  "Bulletin_short_212026.pdf",
+        "src":  "/files/bulletins/Bulletin_short_212026.pdf",
+        "local":  true
+    },
+    {
+        "label":  "June 7, 2026",
+        "date":  "2026-06-07",
+        "year":  "2026",
+        "file":  "Bul_Short_AllSaints_1stPcst_2026.pdf",
+        "src":  "/files/bulletins/Bulletins2010-2013/Bul_Short_AllSaints_1stPcst_2026.pdf",
+        "local":  true
+    },
+    {
+        "label":  "May 10, 2026",
+        "date":  "2026-05-10",
+        "year":  "2026",
+        "file":  "Buletin_Short_051026_Samarn_WomanD.pdf",
+        "src":  "/files/Buletin_Short_051026_Samarn_WomanD.pdf",
+        "local":  true
+    },
+    {
+        "label":  "May 3, 2026",
+        "date":  "2026-05-03",
+        "year":  "2026",
+        "file":  "bulletin_short_Paralytic_4thOasc_2026Cdoc.pdf",
+        "src":  "/files/bulletins/bulletin_short_Paralytic_4thOasc_2026Cdoc.pdf",
+        "local":  true
+    },
+    {
+        "label":  "April 26, 2026",
+        "date":  "2026-04-26",
+        "year":  "2026",
+        "file":  "bulletin_short_Myrrhbearers_2026.pdf",
+        "src":  "/files/bulletins/bulletin_short_Myrrhbearers_2026.pdf",
+        "local":  true
+    },
+    {
+        "label":  "March 15, 2026",
+        "date":  "2026-03-15",
+        "year":  "2026",
+        "file":  "Cross-.pdf",
+        "src":  "/files/bulletins/Cross-.pdf",
+        "local":  true
+    },
+    {
+        "label":  "March 8, 2026",
+        "date":  "2026-03-08",
+        "year":  "2026",
+        "file":  "Palamas.pdf",
+        "src":  "/files/bulletins/Palamas.pdf",
+        "local":  true
+    },
+    {
+        "label":  "March 1, 2026",
+        "date":  "2026-03-01",
+        "year":  "2026",
+        "file":  "cheesefqare.pdf",
+        "src":  "/files/bulletins/cheesefqare.pdf",
+        "local":  true
+    },
+    {
+        "label":  "May 25, 2025",
+        "date":  "2025-05-25",
+        "year":  "2025",
+        "file":  "bulletin_short_052525BBN.pdf",
+        "src":  "/files/bulletins/bulletin_short_052525BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "May 18, 2025",
+        "date":  "2025-05-18",
+        "year":  "2025",
+        "file":  "Bulletin_Short_051825DBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_051825DBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "May 11, 2025",
+        "date":  "2025-05-11",
+        "year":  "2025",
+        "file":  "Bulletin_Short_051125BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_051125BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "April 27, 2025",
+        "date":  "2025-04-27",
+        "year":  "2025",
+        "file":  "Bulletin_Short_050425BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_050425BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "April 6, 2025",
+        "date":  "2025-04-06",
+        "year":  "2025",
+        "file":  "Bulletin_Short_0406DBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_0406DBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "August 28, 2024 — Dormition",
+        "date":  "2024-08-28",
+        "year":  "2024",
+        "file":  "template_church-bulletin_DORMITION_2024_Wednesday.pdf",
+        "src":  "/files/bulletins/template_church-bulletin_DORMITION_2024_Wednesday.pdf",
+        "local":  true
+    },
+    {
+        "label":  "August 11, 2024",
+        "date":  "2024-08-11",
+        "year":  "2024",
+        "file":  "BulletiinShort_11Aug2024BBN.pdf",
+        "src":  "/files/bulletins/BulletiinShort_11Aug2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "July 28, 2024",
+        "date":  "2024-07-28",
+        "year":  "2024",
+        "file":  "SulletiinShort_28Aug2024BBN.pdf",
+        "src":  "/files/bulletins/SulletiinShort_28Aug2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "July 14, 2024",
+        "date":  "2024-07-14",
+        "year":  "2024",
+        "file":  "Bulletin_Short_14July24BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_14July24BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 7, 2024",
+        "date":  "2024-07-07",
+        "year":  "2024",
+        "file":  "Bulletin_Short_7July24BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_7July24BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "June 30, 2024",
+        "date":  "2024-06-30",
+        "year":  "2024",
+        "file":  "Bulletin_Short_30Jun2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_30Jun2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "June 23, 2024",
+        "date":  "2024-06-23",
+        "year":  "2024",
+        "file":  "Bulletin_Short_23Jun2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_23Jun2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "June 16, 2024",
+        "date":  "2024-06-16",
+        "year":  "2024",
+        "file":  "Bulletin_Short_16Jun2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_16Jun2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "June 9, 2024",
+        "date":  "2024-06-09",
+        "year":  "2024",
+        "file":  "Bulletin_Short_9Jun2024BXN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_9Jun2024BXN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "June 2, 2024",
+        "date":  "2024-06-02",
+        "year":  "2024",
+        "file":  "Bulletin_Short_2Jun2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_2Jun2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "May 26, 2024",
+        "date":  "2024-05-26",
+        "year":  "2024",
+        "file":  "Bulletin_Short_26May2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_26May2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "May 12, 2024",
+        "date":  "2024-05-12",
+        "year":  "2024",
+        "file":  "Bulletin_Short_12May2024DBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_12May2024DBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "Pascha — May 5, 2024",
+        "date":  "2024-05-05",
+        "year":  "2024",
+        "file":  "Pasch_Mlg_Bull_2024ABN.pdf",
+        "src":  "/files/bulletins/Pasch_Mlg_Bull_2024ABN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "April 28, 2024",
+        "date":  "2024-04-28",
+        "year":  "2024",
+        "file":  "Bulletin_Short_28Apr2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_28Apr2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "April 21, 2024",
+        "date":  "2024-04-21",
+        "year":  "2024",
+        "file":  "Bulletin_Short_21Apr2024CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_21Apr2024CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "April 14, 2024",
+        "date":  "2024-04-14",
+        "year":  "2024",
+        "file":  "Bulletin_Short_14Apr2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_14Apr2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "April 7, 2024",
+        "date":  "2024-04-07",
+        "year":  "2024",
+        "file":  "Bulletin_Short_07Apr2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_07Apr2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "March 31, 2024",
+        "date":  "2024-03-31",
+        "year":  "2024",
+        "file":  "Bulletin_Short_31Mar2024ABN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_31Mar2024ABN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "March 24, 2024",
+        "date":  "2024-03-24",
+        "year":  "2024",
+        "file":  "Bulletin_Short_24Mar2024CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_24Mar2024CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "March 17, 2024",
+        "date":  "2024-03-17",
+        "year":  "2024",
+        "file":  "Bulletin_Short_17Mar2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_17Mar2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "March 10, 2024",
+        "date":  "2024-03-10",
+        "year":  "2024",
+        "file":  "Bulletin_Short_10Mar2023BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_10Mar2023BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "March 3, 2024",
+        "date":  "2024-03-03",
+        "year":  "2024",
+        "file":  "Bulletin_Short_3_mar_2024BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_3_mar_2024BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "February 25, 2024",
+        "date":  "2024-02-25",
+        "year":  "2024",
+        "file":  "Bulletin_Short_25Feb24CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_25Feb24CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "February 18, 2024",
+        "date":  "2024-02-18",
+        "year":  "2024",
+        "file":  "Bulletin_Short_18Feb24BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_18Feb24BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "February 11, 2024",
+        "date":  "2024-02-11",
+        "year":  "2024",
+        "file":  "Bulletin_Short_11Feb24CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_11Feb24CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "January 28, 2024",
+        "date":  "2024-01-28",
+        "year":  "2024",
+        "file":  "sun012824BBN.pdf",
+        "src":  "/files/bulletins/sun012824BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "January 14, 2024",
+        "date":  "2024-01-14",
+        "year":  "2024",
+        "file":  "Smax_Bulletin_011424CBN.pdf",
+        "src":  "/files/bulletins/Smax_Bulletin_011424CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "December 31, 2023",
+        "date":  "2023-12-31",
+        "year":  "2023",
+        "file":  "Smax_Bulletin_123123DBN.pdf",
+        "src":  "/files/Smax_Bulletin_123123DBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "December 24, 2023",
+        "date":  "2023-12-24",
+        "year":  "2023",
+        "file":  "Bulletin_122423BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_122423BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "December 17, 2023",
+        "date":  "2023-12-17",
+        "year":  "2023",
+        "file":  "Bulletin_121723CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_121723CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "December 3, 2023",
+        "date":  "2023-12-03",
+        "year":  "2023",
+        "file":  "Bulletin_120323CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_120323CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "November 19, 2023",
+        "date":  "2023-11-19",
+        "year":  "2023",
+        "file":  "Bulletin_111923BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_111923BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "November 5, 2023",
+        "date":  "2023-11-05",
+        "year":  "2023",
+        "file":  "Bulletin_110523BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_110523BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "October 29, 2023",
+        "date":  "2023-10-29",
+        "year":  "2023",
+        "file":  "Bulletin_102923CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_102923CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "October 22, 2023",
+        "date":  "2023-10-22",
+        "year":  "2023",
+        "file":  "Bulletin_102223BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_102223BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "October 15, 2023",
+        "date":  "2023-10-15",
+        "year":  "2023",
+        "file":  "Bulletin_101523BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_101523BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "October 8, 2023",
+        "date":  "2023-10-08",
+        "year":  "2023",
+        "file":  "Bulletin_100823BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_100823BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "September 24, 2023",
+        "date":  "2023-09-24",
+        "year":  "2023",
+        "file":  "Bulletin_092423CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_092423CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "September 17, 2023",
+        "date":  "2023-09-17",
+        "year":  "2023",
+        "file":  "Bulletin_091723BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_091723BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "September 10, 2023",
+        "date":  "2023-09-10",
+        "year":  "2023",
+        "file":  "Bulletin_091023CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_091023CBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "August 27, 2023",
+        "date":  "2023-08-27",
+        "year":  "2023",
+        "file":  "Bulletin_082723BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_082723BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "August 20, 2023",
+        "date":  "2023-08-20",
+        "year":  "2023",
+        "file":  "Bulletin_082023BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_082023BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "August 13, 2023",
+        "date":  "2023-08-13",
+        "year":  "2023",
+        "file":  "Bulletin_081323.pdf",
+        "src":  "/files/bulletins/Bulletin_081323.pdf",
+        "local":  true
+    },
+    {
+        "label":  "August 6, 2023",
+        "date":  "2023-08-06",
+        "year":  "2023",
+        "file":  "Bulletin_080623BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_080623BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "July 30, 2023",
+        "date":  "2023-07-30",
+        "year":  "2023",
+        "file":  "Bulletin_073023BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_073023BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "July 23, 2023",
+        "date":  "2023-07-23",
+        "year":  "2023",
+        "file":  "Bulletin_072323BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_072323BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "July 16, 2023",
+        "date":  "2023-07-16",
+        "year":  "2023",
+        "file":  "Bulletin_071623BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_071623BBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "July 9, 2023",
+        "date":  "2023-07-09",
+        "year":  "2023",
+        "file":  "Bulletin_070923DBN.pdf",
+        "src":  "/files/bulletins/Bulletin_070923DBN.pdf",
+        "local":  true
+    },
+    {
+        "label":  "June 11, 2023",
+        "date":  "2023-06-11",
+        "year":  "2023",
+        "file":  "Bulletin_061123CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_061123CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 4, 2023",
+        "date":  "2023-06-04",
+        "year":  "2023",
+        "file":  "Bulletin_060423BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_060423BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 28, 2023",
+        "date":  "2023-05-28",
+        "year":  "2023",
+        "file":  "Bulletin_052823BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_052823BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 21, 2023",
+        "date":  "2023-05-21",
+        "year":  "2023",
+        "file":  "Bulletin_052123BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_052123BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 14, 2023",
+        "date":  "2023-05-14",
+        "year":  "2023",
+        "file":  "Bulletin_051423BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_051423BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 7, 2023",
+        "date":  "2023-05-07",
+        "year":  "2023",
+        "file":  "Bulletin_Short_050723_paralyticB.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_050723_paralyticB.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 30, 2023",
+        "date":  "2023-04-30",
+        "year":  "2023",
+        "file":  "Bulletin_Short_043023.BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_043023.BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 9, 2023",
+        "date":  "2023-04-09",
+        "year":  "2023",
+        "file":  "Bulletin_Short_040923BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_040923BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 2, 2023",
+        "date":  "2023-04-02",
+        "year":  "2023",
+        "file":  "Bulletin_Short_040223BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_040223BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 19, 2023",
+        "date":  "2023-03-19",
+        "year":  "2023",
+        "file":  "Bulletin_Short_031923CCBpdf.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_031923CCBpdf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 12, 2023",
+        "date":  "2023-03-12",
+        "year":  "2023",
+        "file":  "Bulletin_Short_031223BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_031223BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 5, 2023",
+        "date":  "2023-03-05",
+        "year":  "2023",
+        "file":  "Bulletin_Short_030523BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_030523BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 26, 2023",
+        "date":  "2023-02-26",
+        "year":  "2023",
+        "file":  "Bulletin_Short_022623CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_022623CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 19, 2023",
+        "date":  "2023-02-19",
+        "year":  "2023",
+        "file":  "Bulletin_Short_021923CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_021923CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 12, 2023",
+        "date":  "2023-02-12",
+        "year":  "2023",
+        "file":  "Bulletin_Short_021223CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_021223CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 5, 2023",
+        "date":  "2023-02-05",
+        "year":  "2023",
+        "file":  "Bulletin_Short_020523CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_020523CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 15, 2023",
+        "date":  "2023-01-15",
+        "year":  "2023",
+        "file":  "Bulletin_Short_15Jan23CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_15Jan23CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 1, 2023",
+        "date":  "2023-01-01",
+        "year":  "2023",
+        "file":  "Bulletin_Short_010123C.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_010123C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 18, 2022",
+        "date":  "2022-12-18",
+        "year":  "2022",
+        "file":  "Bulletin_Short_18DEC22BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_18DEC22BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 4, 2022",
+        "date":  "2022-12-04",
+        "year":  "2022",
+        "file":  "Bulletin_Short_120422BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_120422BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 27, 2022",
+        "date":  "2022-11-27",
+        "year":  "2022",
+        "file":  "Bulletin_Short_Sun112722DBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_Sun112722DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 20, 2022",
+        "date":  "2022-11-20",
+        "year":  "2022",
+        "file":  "Bulletin_Short_20Nov22_CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_20Nov22_CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 6, 2022",
+        "date":  "2022-11-06",
+        "year":  "2022",
+        "file":  "Bulletin_Short_100622BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_100622BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 30, 2022",
+        "date":  "2022-10-30",
+        "year":  "2022",
+        "file":  "Bulletin_Short_103022_BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_103022_BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 16, 2022",
+        "date":  "2022-10-16",
+        "year":  "2022",
+        "file":  "Bulletin_Short_101622CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_101622CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 9, 2022",
+        "date":  "2022-10-09",
+        "year":  "2022",
+        "file":  "Bulletin_Short_9-Oct_2022DBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_9-Oct_2022DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 2, 2022",
+        "date":  "2022-10-02",
+        "year":  "2022",
+        "file":  "Bulletin_Short_100222BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_100222BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 25, 2022",
+        "date":  "2022-09-25",
+        "year":  "2022",
+        "file":  "Bulletin_Short_092522.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_092522.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 18, 2022",
+        "date":  "2022-09-18",
+        "year":  "2022",
+        "file":  "Bulletin_Short_18Sep22.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_18Sep22.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 11, 2022",
+        "date":  "2022-09-11",
+        "year":  "2022",
+        "file":  "Bulletin_Short_091122CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_091122CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 4, 2022",
+        "date":  "2022-09-04",
+        "year":  "2022",
+        "file":  "Bulletin_Short_Sept_2022BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_Sept_2022BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 28, 2022",
+        "date":  "2022-08-28",
+        "year":  "2022",
+        "file":  "Bulletin_Short_082822CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_082822CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 21, 2022",
+        "date":  "2022-08-21",
+        "year":  "2022",
+        "file":  "Bulletin_Short_082122BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_082122BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 14, 2022",
+        "date":  "2022-08-14",
+        "year":  "2022",
+        "file":  "Bulletin_Short_0814222_BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_0814222_BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 7, 2022",
+        "date":  "2022-08-07",
+        "year":  "2022",
+        "file":  "Bulletin_Short_sun080722BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_sun080722BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 31, 2022",
+        "date":  "2022-07-31",
+        "year":  "2022",
+        "file":  "Bulletin_Short_Suday_073122CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_Suday_073122CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 17, 2022",
+        "date":  "2022-07-17",
+        "year":  "2022",
+        "file":  "Bulletin_Short_071722CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_071722CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 10, 2022",
+        "date":  "2022-07-10",
+        "year":  "2022",
+        "file":  "Bulletin_Short_Suday_10Jul22CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_Suday_10Jul22CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 3, 2022",
+        "date":  "2022-07-03",
+        "year":  "2022",
+        "file":  "Bulletin_Short_070322CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_070322CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 26, 2022",
+        "date":  "2022-06-26",
+        "year":  "2022",
+        "file":  "Bulletin_Short_062622_CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_062622_CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 19, 2022",
+        "date":  "2022-06-19",
+        "year":  "2022",
+        "file":  "Bulletin_Short_19June_2021BCBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_19June_2021BCBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 12, 2022",
+        "date":  "2022-06-12",
+        "year":  "2022",
+        "file":  "Bulletin_Short_12_June_2022_CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_12_June_2022_CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 5, 2022",
+        "date":  "2022-06-05",
+        "year":  "2022",
+        "file":  "Bulletin_Short_060722B.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_060722B.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 29, 2022",
+        "date":  "2022-05-29",
+        "year":  "2022",
+        "file":  "Bulletin_Short_052922A.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_052922A.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 22, 2022",
+        "date":  "2022-05-22",
+        "year":  "2022",
+        "file":  "Bulletin_Short_05222DBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_05222DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 15, 2022",
+        "date":  "2022-05-15",
+        "year":  "2022",
+        "file":  "Bulletin_Short_15_May_22C.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_15_May_22C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 8, 2022",
+        "date":  "2022-05-08",
+        "year":  "2022",
+        "file":  "Bulletin_Short_9_May_2022C.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_9_May_2022C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 16, 2022",
+        "date":  "2022-01-16",
+        "year":  "2022",
+        "file":  "Bulletin_Short_Jan_16_2022BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_Jan_16_2022BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 9, 2022",
+        "date":  "2022-01-09",
+        "year":  "2022",
+        "file":  "Bulletin_Short_Jan_09_2022CBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_Jan_09_2022CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 19, 2021",
+        "date":  "2021-12-19",
+        "year":  "2021",
+        "file":  "Bulletin_Short_Dec_19_2021BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_Dec_19_2021BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 12, 2021",
+        "date":  "2021-12-12",
+        "year":  "2021",
+        "file":  "Bulletin_Short_Dec_12_2021ABN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_Dec_12_2021ABN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 5, 2021",
+        "date":  "2021-12-05",
+        "year":  "2021",
+        "file":  "Bulletin_Short_12Dec21BBN.pdf",
+        "src":  "/files/bulletins/Bulletin_Short_12Dec21BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 19, 2021",
+        "date":  "2021-09-19",
+        "year":  "2021",
+        "file":  "bul091921CBN.pdf",
+        "src":  "/files/bulletins/bul091921CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 25, 2021",
+        "date":  "2021-04-25",
+        "year":  "2021",
+        "file":  "Bul_PalmSuday_042521CBN.pdf",
+        "src":  "/files/bulletins/Bul_PalmSuday_042521CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 18, 2021",
+        "date":  "2021-04-18",
+        "year":  "2021",
+        "file":  "bul041821BBN.pdf",
+        "src":  "/files/bulletins/bul041821BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 11, 2021",
+        "date":  "2021-04-11",
+        "year":  "2021",
+        "file":  "bul041121BBN.pdf",
+        "src":  "/files/bulletins/bul041121BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 4, 2021",
+        "date":  "2021-04-04",
+        "year":  "2021",
+        "file":  "bul040421CBN.pdf",
+        "src":  "/files/bulletins/bul040421CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 28, 2021",
+        "date":  "2021-03-28",
+        "year":  "2021",
+        "file":  "bul032821CBN.pdf",
+        "src":  "/files/bulletins/bul032821CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 21, 2021",
+        "date":  "2021-03-21",
+        "year":  "2021",
+        "file":  "bul032121BBN.pdf",
+        "src":  "/files/bulletins/bul032121BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 14, 2021",
+        "date":  "2021-03-14",
+        "year":  "2021",
+        "file":  "bul031421CBN.pdf",
+        "src":  "/files/bulletins/bul031421CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 7, 2021",
+        "date":  "2021-03-07",
+        "year":  "2021",
+        "file":  "bul030721CBN.pdf",
+        "src":  "/files/bulletins/bul030721CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 28, 2021",
+        "date":  "2021-02-28",
+        "year":  "2021",
+        "file":  "bul022821BBN.pdf",
+        "src":  "/files/bulletins/bul022821BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 21, 2021",
+        "date":  "2021-02-21",
+        "year":  "2021",
+        "file":  "bul022221CBN.pdf",
+        "src":  "/files/bulletins/bul022221CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 14, 2021",
+        "date":  "2021-02-14",
+        "year":  "2021",
+        "file":  "bul021521BBN.pdf",
+        "src":  "/files/bulletins/bul021521BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 7, 2021",
+        "date":  "2021-02-07",
+        "year":  "2021",
+        "file":  "bul020821BBN.pdf",
+        "src":  "/files/bulletins/bul020821BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 31, 2021",
+        "date":  "2021-01-31",
+        "year":  "2021",
+        "file":  "bul013121CBN.pdf",
+        "src":  "/files/bulletins/bul013121CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 17, 2021",
+        "date":  "2021-01-17",
+        "year":  "2021",
+        "file":  "bul011721BBN.pdf",
+        "src":  "/files/bulletins/bul011721BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 10, 2021",
+        "date":  "2021-01-10",
+        "year":  "2021",
+        "file":  "bul011021CBN.pdf",
+        "src":  "/files/bulletins/bul011021CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 3, 2021",
+        "date":  "2021-01-03",
+        "year":  "2021",
+        "file":  "bull010321CBN.pdf",
+        "src":  "/files/bulletins/bull010321CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 27, 2020",
+        "date":  "2020-12-27",
+        "year":  "2020",
+        "file":  "bull122720BBN.pdf",
+        "src":  "/files/bulletins/bull122720BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 13, 2020",
+        "date":  "2020-12-13",
+        "year":  "2020",
+        "file":  "bull121320CBN.pdf",
+        "src":  "/files/bulletins/bull121320CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 6, 2020",
+        "date":  "2020-12-06",
+        "year":  "2020",
+        "file":  "bull120620DBN.pdf",
+        "src":  "/files/bulletins/bull120620DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 29, 2020",
+        "date":  "2020-11-29",
+        "year":  "2020",
+        "file":  "bull112920CBN.pdf",
+        "src":  "/files/bulletins/bull112920CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 22, 2020",
+        "date":  "2020-11-22",
+        "year":  "2020",
+        "file":  "bull112220CBN.pdf",
+        "src":  "/files/bulletins/bull112220CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 15, 2020",
+        "date":  "2020-11-15",
+        "year":  "2020",
+        "file":  "bull111520CBN.pdf",
+        "src":  "/files/bulletins/bull111520CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 8, 2020",
+        "date":  "2020-11-08",
+        "year":  "2020",
+        "file":  "bull110820BBN.pdf",
+        "src":  "/files/bulletins/bull110820BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 1, 2020",
+        "date":  "2020-11-01",
+        "year":  "2020",
+        "file":  "bull110120CBN.pdf",
+        "src":  "/files/bulletins/bull110120CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 25, 2020",
+        "date":  "2020-10-25",
+        "year":  "2020",
+        "file":  "bull102520EBN.pdf",
+        "src":  "/files/bulletins/bull102520EBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 18, 2020",
+        "date":  "2020-10-18",
+        "year":  "2020",
+        "file":  "bul101820BBN.pdf",
+        "src":  "/files/bulletins/bul101820BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 11, 2020",
+        "date":  "2020-10-11",
+        "year":  "2020",
+        "file":  "bul101120BBN.pdf",
+        "src":  "/files/bulletins/bul101120BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 4, 2020",
+        "date":  "2020-10-04",
+        "year":  "2020",
+        "file":  "bul100420BBN.pdf",
+        "src":  "/files/bulletins/bul100420BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 27, 2020",
+        "date":  "2020-09-27",
+        "year":  "2020",
+        "file":  "bul092720CBN.pdf",
+        "src":  "/files/bulletins/bul092720CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 20, 2020",
+        "date":  "2020-09-20",
+        "year":  "2020",
+        "file":  "bul092020DBN.pdf",
+        "src":  "/files/bulletins/bul092020DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 13, 2020",
+        "date":  "2020-09-13",
+        "year":  "2020",
+        "file":  "bul091320CBN.pdf",
+        "src":  "/files/bulletins/bul091320CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 6, 2020",
+        "date":  "2020-09-06",
+        "year":  "2020",
+        "file":  "bul090620BBN.pdf",
+        "src":  "/files/bulletins/bul090620BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 30, 2020",
+        "date":  "2020-08-30",
+        "year":  "2020",
+        "file":  "bul083020EBN.pdf",
+        "src":  "/files/bulletins/bul083020EBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 23, 2020",
+        "date":  "2020-08-23",
+        "year":  "2020",
+        "file":  "bul082320CBN.pdf",
+        "src":  "/files/bul082320CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 16, 2020",
+        "date":  "2020-08-16",
+        "year":  "2020",
+        "file":  "bul081720BCBN.pdf",
+        "src":  "/files/bulletins/bul081720BCBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 9, 2020",
+        "date":  "2020-08-09",
+        "year":  "2020",
+        "file":  "bul080920CBN.pdf",
+        "src":  "/files/bulletins/bul080920CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 2, 2020",
+        "date":  "2020-08-02",
+        "year":  "2020",
+        "file":  "bul080220DBN.pdf",
+        "src":  "/files/bulletins/bul080220DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 26, 2020",
+        "date":  "2020-07-26",
+        "year":  "2020",
+        "file":  "bul072620BBN.pdf",
+        "src":  "/files/bulletins/bul072620BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 19, 2020",
+        "date":  "2020-07-19",
+        "year":  "2020",
+        "file":  "bul071920CBN.pdf",
+        "src":  "/files/bulletins/bul071920CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 12, 2020",
+        "date":  "2020-07-12",
+        "year":  "2020",
+        "file":  "bul071220DBN.pdf",
+        "src":  "/files/bulletins/bul071220DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 5, 2020",
+        "date":  "2020-07-05",
+        "year":  "2020",
+        "file":  "bul070520DBN.pdf",
+        "src":  "/files/bulletins/bul070520DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 28, 2020",
+        "date":  "2020-06-28",
+        "year":  "2020",
+        "file":  "bul062820ABN.pdf",
+        "src":  "/files/bulletins/bul062820ABN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 21, 2020",
+        "date":  "2020-06-21",
+        "year":  "2020",
+        "file":  "bul062120BBN.pdf",
+        "src":  "/files/bulletins/bul062120BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 14, 2020",
+        "date":  "2020-06-14",
+        "year":  "2020",
+        "file":  "bul061420XBN.pdf",
+        "src":  "/files/bulletins/bul061420XBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 7, 2020",
+        "date":  "2020-06-07",
+        "year":  "2020",
+        "file":  "bul060720BBN.pdf",
+        "src":  "/files/bulletins/bul060720BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 31, 2020",
+        "date":  "2020-05-31",
+        "year":  "2020",
+        "file":  "bul053120CBN.pdf",
+        "src":  "/files/bulletins/bul053120CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 17, 2020",
+        "date":  "2020-05-17",
+        "year":  "2020",
+        "file":  "bul051720BBN.pdf",
+        "src":  "/files/bulletins/bul051720BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 10, 2020",
+        "date":  "2020-05-10",
+        "year":  "2020",
+        "file":  "bul051020BBN.pdf",
+        "src":  "/files/bulletins/bul051020BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 3, 2020",
+        "date":  "2020-05-03",
+        "year":  "2020",
+        "file":  "bul050320BBN.pdf",
+        "src":  "/files/bulletins/bul050320BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 26, 2020",
+        "date":  "2020-04-26",
+        "year":  "2020",
+        "file":  "bul042620CBN.pdf",
+        "src":  "/files/bulletins/bul042620CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 12, 2020",
+        "date":  "2020-04-12",
+        "year":  "2020",
+        "file":  "bul041220DBN.pdf",
+        "src":  "/files/bulletins/bul041220DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 5, 2020",
+        "date":  "2020-04-05",
+        "year":  "2020",
+        "file":  "bul040520EBN.pdf",
+        "src":  "/files/bulletins/bul040520EBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 29, 2020",
+        "date":  "2020-03-29",
+        "year":  "2020",
+        "file":  "bul032920BBN.pdf",
+        "src":  "/files/bulletins/bul032920BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 22, 2020",
+        "date":  "2020-03-22",
+        "year":  "2020",
+        "file":  "bul032220BBN.pdf",
+        "src":  "/files/bulletins/bul032220BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 15, 2020",
+        "date":  "2020-03-15",
+        "year":  "2020",
+        "file":  "bul031520BBN.pdf",
+        "src":  "/files/bulletins/bul031520BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 8, 2020",
+        "date":  "2020-03-08",
+        "year":  "2020",
+        "file":  "bul030820CBN.pdf",
+        "src":  "/files/bulletins/bul030820CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 1, 2020",
+        "date":  "2020-03-01",
+        "year":  "2020",
+        "file":  "bul030120CBN.pdf",
+        "src":  "/files/bulletins/bul030120CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 23, 2020",
+        "date":  "2020-02-23",
+        "year":  "2020",
+        "file":  "bul022320CBN.pdf",
+        "src":  "/files/bulletins/bul022320CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 16, 2020",
+        "date":  "2020-02-16",
+        "year":  "2020",
+        "file":  "bul021620BBN.pdf",
+        "src":  "/files/bulletins/bul021620BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 9, 2020",
+        "date":  "2020-02-09",
+        "year":  "2020",
+        "file":  "bul020920CBN.pdf",
+        "src":  "/files/bulletins/bul020920CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 2, 2020",
+        "date":  "2020-02-02",
+        "year":  "2020",
+        "file":  "bul020220CBN.pdf",
+        "src":  "/files/bulletins/bul020220CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 26, 2020",
+        "date":  "2020-01-26",
+        "year":  "2020",
+        "file":  "bul012620BBN.pdf",
+        "src":  "/files/bulletins/bul012620BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 19, 2020",
+        "date":  "2020-01-19",
+        "year":  "2020",
+        "file":  "bul011920Bdrf.pdf",
+        "src":  "/files/bulletins/bul011920Bdrf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 12, 2020",
+        "date":  "2020-01-12",
+        "year":  "2020",
+        "file":  "bul011220DBN.pdf",
+        "src":  "/files/bulletins/bul011220DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 5, 2020",
+        "date":  "2020-01-05",
+        "year":  "2020",
+        "file":  "bul010520BBN.pdf",
+        "src":  "/files/bulletins/bul010520BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 29, 2019",
+        "date":  "2019-12-29",
+        "year":  "2019",
+        "file":  "bul122919BBBN.pdf",
+        "src":  "/files/bulletins/bul122919BBBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 22, 2019",
+        "date":  "2019-12-22",
+        "year":  "2019",
+        "file":  "bul122219CBN.pdf",
+        "src":  "/files/bulletins/bul122219CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 15, 2019",
+        "date":  "2019-12-15",
+        "year":  "2019",
+        "file":  "bul121519DBN.pdf",
+        "src":  "/files/bulletins/bul121519DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 8, 2019",
+        "date":  "2019-12-08",
+        "year":  "2019",
+        "file":  "bul120819BBN.pdf",
+        "src":  "/files/bulletins/bul120819BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 1, 2019",
+        "date":  "2019-12-01",
+        "year":  "2019",
+        "file":  "bul120119BBN.pdf",
+        "src":  "/files/bulletins/bul120119BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 24, 2019",
+        "date":  "2019-11-24",
+        "year":  "2019",
+        "file":  "bul112419BBN.pdf",
+        "src":  "/files/bulletins/bul112419BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 17, 2019",
+        "date":  "2019-11-17",
+        "year":  "2019",
+        "file":  "bul111719BBN.pdf",
+        "src":  "/files/bulletins/bul111719BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 10, 2019",
+        "date":  "2019-11-10",
+        "year":  "2019",
+        "file":  "bul111019BBN.pdf",
+        "src":  "/files/bulletins/bul111019BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 3, 2019",
+        "date":  "2019-11-03",
+        "year":  "2019",
+        "file":  "bul110319BBN.pdf",
+        "src":  "/files/bulletins/bul110319BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 27, 2019",
+        "date":  "2019-10-27",
+        "year":  "2019",
+        "file":  "bul102719CBN.pdf",
+        "src":  "/files/bulletins/bul102719CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 13, 2019",
+        "date":  "2019-10-13",
+        "year":  "2019",
+        "file":  "bul101319CBN.pdf",
+        "src":  "/files/bulletins/bul101319CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 6, 2019",
+        "date":  "2019-10-06",
+        "year":  "2019",
+        "file":  "bul100619CBN.pdf",
+        "src":  "/files/bulletins/bul100619CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 29, 2019",
+        "date":  "2019-09-29",
+        "year":  "2019",
+        "file":  "bul092919BBN.pdf",
+        "src":  "/files/bulletins/bul092919BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 22, 2019",
+        "date":  "2019-09-22",
+        "year":  "2019",
+        "file":  "bul092219BBN.pdf",
+        "src":  "/files/bulletins/bul092219BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 15, 2019",
+        "date":  "2019-09-15",
+        "year":  "2019",
+        "file":  "bul091519DBN.pdf",
+        "src":  "/files/bulletins/bul091519DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 8, 2019",
+        "date":  "2019-09-08",
+        "year":  "2019",
+        "file":  "bul090819CBN.pdf",
+        "src":  "/files/bulletins/bul090819CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 1, 2019",
+        "date":  "2019-09-01",
+        "year":  "2019",
+        "file":  "bul090119CBN.pdf",
+        "src":  "/files/bulletins/bul090119CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 25, 2019",
+        "date":  "2019-08-25",
+        "year":  "2019",
+        "file":  "bul082519CBN.pdf",
+        "src":  "/files/bulletins/bul082519CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 18, 2019",
+        "date":  "2019-08-18",
+        "year":  "2019",
+        "file":  "bul081819DBN.pdf",
+        "src":  "/files/bulletins/bul081819DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 11, 2019",
+        "date":  "2019-08-11",
+        "year":  "2019",
+        "file":  "bul081119CBN.pdf",
+        "src":  "/files/bulletins/bul081119CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 4, 2019",
+        "date":  "2019-08-04",
+        "year":  "2019",
+        "file":  "bul080419BBN.pdf",
+        "src":  "/files/bulletins/bul080419BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 21, 2019",
+        "date":  "2019-07-21",
+        "year":  "2019",
+        "file":  "bul072119BBN.pdf",
+        "src":  "/files/bulletins/bul072119BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 14, 2019",
+        "date":  "2019-07-14",
+        "year":  "2019",
+        "file":  "bul071419BBN.pdf",
+        "src":  "/files/bulletins/bul071419BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 7, 2019",
+        "date":  "2019-07-07",
+        "year":  "2019",
+        "file":  "bul070719XXDBN.pdf",
+        "src":  "/files/bulletins/bul070719XXDBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 30, 2019",
+        "date":  "2019-06-30",
+        "year":  "2019",
+        "file":  "bul070719BBN.pdf",
+        "src":  "/files/bulletins/bul070719BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 23, 2019",
+        "date":  "2019-06-23",
+        "year":  "2019",
+        "file":  "bul062319BBN.pdf",
+        "src":  "/files/bulletins/bul062319BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 16, 2019",
+        "date":  "2019-06-16",
+        "year":  "2019",
+        "file":  "bul061719CBN.pdf",
+        "src":  "/files/bulletins/bul061719CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 9, 2019",
+        "date":  "2019-06-09",
+        "year":  "2019",
+        "file":  "bul060919CBN.pdf",
+        "src":  "/files/bulletins/bul060919CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 2, 2019",
+        "date":  "2019-06-02",
+        "year":  "2019",
+        "file":  "bul060219CBN.pdf",
+        "src":  "/files/bulletins/bul060219CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 26, 2019",
+        "date":  "2019-05-26",
+        "year":  "2019",
+        "file":  "bul052619BBN.pdf",
+        "src":  "/files/bulletins/bul052619BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 19, 2019",
+        "date":  "2019-05-19",
+        "year":  "2019",
+        "file":  "bul051919BBN.pdf",
+        "src":  "/files/bulletins/bul051919BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 12, 2019",
+        "date":  "2019-05-12",
+        "year":  "2019",
+        "file":  "bul051219CBN.pdf",
+        "src":  "/files/bulletins/bul051219CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 5, 2019",
+        "date":  "2019-05-05",
+        "year":  "2019",
+        "file":  "bul050519CBN.pdf",
+        "src":  "/files/bulletins/bul050519CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 21, 2019",
+        "date":  "2019-04-21",
+        "year":  "2019",
+        "file":  "bul042119BBN.pdf",
+        "src":  "/files/bulletins/bul042119BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 14, 2019",
+        "date":  "2019-04-14",
+        "year":  "2019",
+        "file":  "bul041419CBN.pdf",
+        "src":  "/files/bulletins/bul041419CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 7, 2019",
+        "date":  "2019-04-07",
+        "year":  "2019",
+        "file":  "bul040719CBN.pdf",
+        "src":  "/files/bulletins/bul040719CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 31, 2019",
+        "date":  "2019-03-31",
+        "year":  "2019",
+        "file":  "bul033119CBN.pdf",
+        "src":  "/files/bulletins/bul033119CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 24, 2019",
+        "date":  "2019-03-24",
+        "year":  "2019",
+        "file":  "bul032419DBN.pdf",
+        "src":  "/files/bulletins/bul032419DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 17, 2019",
+        "date":  "2019-03-17",
+        "year":  "2019",
+        "file":  "bul031719CBN.pdf",
+        "src":  "/files/bulletins/bul031719CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 10, 2019",
+        "date":  "2019-03-10",
+        "year":  "2019",
+        "file":  "bul031019BBN.pdf",
+        "src":  "/files/bulletins/bul031019BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 3, 2019",
+        "date":  "2019-03-03",
+        "year":  "2019",
+        "file":  "bul030319DDN.pdf",
+        "src":  "/files/bulletins/bul030319DDN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 17, 2019",
+        "date":  "2019-02-17",
+        "year":  "2019",
+        "file":  "bul021719BBN.pdf",
+        "src":  "/files/bulletins/bul021719BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 10, 2019",
+        "date":  "2019-02-10",
+        "year":  "2019",
+        "file":  "bul021019BBN.pdf",
+        "src":  "/files/bulletins/bul021019BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 3, 2019",
+        "date":  "2019-02-03",
+        "year":  "2019",
+        "file":  "bul020319BXN.pdf",
+        "src":  "/files/bulletins/bul020319BXN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 20, 2019",
+        "date":  "2019-01-20",
+        "year":  "2019",
+        "file":  "bul012019CBN.pdf",
+        "src":  "/files/bulletins/bul012019CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 13, 2019",
+        "date":  "2019-01-13",
+        "year":  "2019",
+        "file":  "bul011319CBN.pdf",
+        "src":  "/files/bulletins/bul011319CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 23, 2018",
+        "date":  "2018-12-23",
+        "year":  "2018",
+        "file":  "bul122318BBN.pdf",
+        "src":  "/files/bulletins/bul122318BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 9, 2018",
+        "date":  "2018-12-09",
+        "year":  "2018",
+        "file":  "bul120918CBN.pdf",
+        "src":  "/files/bulletins/bul120918CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 2, 2018",
+        "date":  "2018-12-02",
+        "year":  "2018",
+        "file":  "bul120218CBNX.pdf",
+        "src":  "/files/bulletins/bul120218CBNX.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 25, 2018",
+        "date":  "2018-11-25",
+        "year":  "2018",
+        "file":  "bul112518CBN.pdf",
+        "src":  "/files/bulletins/bul112518CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 18, 2018",
+        "date":  "2018-11-18",
+        "year":  "2018",
+        "file":  "bul111818CBN.pdf",
+        "src":  "/files/bulletins/bul111818CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 11, 2018",
+        "date":  "2018-11-11",
+        "year":  "2018",
+        "file":  "bul111118CBN.pdf",
+        "src":  "/files/bulletins/bul111118CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 4, 2018",
+        "date":  "2018-11-04",
+        "year":  "2018",
+        "file":  "bul110418BBN.pdf",
+        "src":  "/files/bulletins/bul110418BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 21, 2018",
+        "date":  "2018-10-21",
+        "year":  "2018",
+        "file":  "bul102118BBN.pdf",
+        "src":  "/files/bulletins/bul102118BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 14, 2018",
+        "date":  "2018-10-14",
+        "year":  "2018",
+        "file":  "bul101418DBN.pdf",
+        "src":  "/files/bulletins/bul101418DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 7, 2018",
+        "date":  "2018-10-07",
+        "year":  "2018",
+        "file":  "bul100418BBN.pdf",
+        "src":  "/files/bulletins/bul100418BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 30, 2018",
+        "date":  "2018-09-30",
+        "year":  "2018",
+        "file":  "bul093018BBN.pdf",
+        "src":  "/files/bulletins/bul093018BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 23, 2018",
+        "date":  "2018-09-23",
+        "year":  "2018",
+        "file":  "bul092318BBN.pdf",
+        "src":  "/files/bulletins/bul092318BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 16, 2018",
+        "date":  "2018-09-16",
+        "year":  "2018",
+        "file":  "bul091618CBN.pdf",
+        "src":  "/files/bulletins/bul091618CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 9, 2018",
+        "date":  "2018-09-09",
+        "year":  "2018",
+        "file":  "bul090918BBN.pdf",
+        "src":  "/files/bulletins/bul090918BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 2, 2018",
+        "date":  "2018-09-02",
+        "year":  "2018",
+        "file":  "bul090218BBN.pdf",
+        "src":  "/files/bulletins/bul090218BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 26, 2018",
+        "date":  "2018-08-26",
+        "year":  "2018",
+        "file":  "bul082618BBN.pdf",
+        "src":  "/files/bulletins/bul082618BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 19, 2018",
+        "date":  "2018-08-19",
+        "year":  "2018",
+        "file":  "bul081918CBN.pdf",
+        "src":  "/files/bulletins/bul081918CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 12, 2018",
+        "date":  "2018-08-12",
+        "year":  "2018",
+        "file":  "bul081218CBN.pdf",
+        "src":  "/files/bulletins/bul081218CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 5, 2018",
+        "date":  "2018-08-05",
+        "year":  "2018",
+        "file":  "bul080518BBN.pdf",
+        "src":  "/files/bulletins/bul080518BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 29, 2018",
+        "date":  "2018-07-29",
+        "year":  "2018",
+        "file":  "bul072918CBN.pdf",
+        "src":  "/files/bulletins/bul072918CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 22, 2018",
+        "date":  "2018-07-22",
+        "year":  "2018",
+        "file":  "bul072218DBN.pdf",
+        "src":  "/files/bulletins/bul072218DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 15, 2018",
+        "date":  "2018-07-15",
+        "year":  "2018",
+        "file":  "bul071518CBN.pdf",
+        "src":  "/files/bulletins/bul071518CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 8, 2018",
+        "date":  "2018-07-08",
+        "year":  "2018",
+        "file":  "bul070818CBN.pdf",
+        "src":  "/files/bulletins/bul070818CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 1, 2018",
+        "date":  "2018-07-01",
+        "year":  "2018",
+        "file":  "bul070118CBN.pdf",
+        "src":  "/files/bulletins/bul070118CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 24, 2018",
+        "date":  "2018-06-24",
+        "year":  "2018",
+        "file":  "bul062418BBN.pdf",
+        "src":  "/files/bulletins/bul062418BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 17, 2018",
+        "date":  "2018-06-17",
+        "year":  "2018",
+        "file":  "bul061718Bdrf.pdf",
+        "src":  "/files/bulletins/bul061718Bdrf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 10, 2018",
+        "date":  "2018-06-10",
+        "year":  "2018",
+        "file":  "bul061018Bdrf.pdf",
+        "src":  "/files/bulletins/bul061018Bdrf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 3, 2018",
+        "date":  "2018-06-03",
+        "year":  "2018",
+        "file":  "bul060318CBN.pdf",
+        "src":  "/files/bulletins/bul060318CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 27, 2018",
+        "date":  "2018-05-27",
+        "year":  "2018",
+        "file":  "bul052718BBN.pdf",
+        "src":  "/files/bulletins/bul052718BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 20, 2018",
+        "date":  "2018-05-20",
+        "year":  "2018",
+        "file":  "bul052018BBN.pdf",
+        "src":  "/files/bulletins/bul052018BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 13, 2018",
+        "date":  "2018-05-13",
+        "year":  "2018",
+        "file":  "bul051318CBN.pdf",
+        "src":  "/files/bulletins/bul051318CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 6, 2018",
+        "date":  "2018-05-06",
+        "year":  "2018",
+        "file":  "bul050618CBN.pdf",
+        "src":  "/files/bulletins/bul050618CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 29, 2018",
+        "date":  "2018-04-29",
+        "year":  "2018",
+        "file":  "bul042918BBN.pdf",
+        "src":  "/files/bulletins/bul042918BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 22, 2018",
+        "date":  "2018-04-22",
+        "year":  "2018",
+        "file":  "bul042218CBN.pdf",
+        "src":  "/files/bulletins/bul042218CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 15, 2018",
+        "date":  "2018-04-15",
+        "year":  "2018",
+        "file":  "bul041518CBN.pdf",
+        "src":  "/files/bulletins/bul041518CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 1, 2018",
+        "date":  "2018-04-01",
+        "year":  "2018",
+        "file":  "bul040118BBN.pdf",
+        "src":  "/files/bulletins/bul040118BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 18, 2018",
+        "date":  "2018-03-18",
+        "year":  "2018",
+        "file":  "bul031818CBN.pdf",
+        "src":  "/files/bulletins/bul031818CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 11, 2018",
+        "date":  "2018-03-11",
+        "year":  "2018",
+        "file":  "bul031118BBN.pdf",
+        "src":  "/files/bulletins/bul031118BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 4, 2018",
+        "date":  "2018-03-04",
+        "year":  "2018",
+        "file":  "bul030418CBN.pdf",
+        "src":  "/files/bulletins/bul030418CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 25, 2018",
+        "date":  "2018-02-25",
+        "year":  "2018",
+        "file":  "bul022518DBN.pdf",
+        "src":  "/files/bulletins/bul022518DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 18, 2018",
+        "date":  "2018-02-18",
+        "year":  "2018",
+        "file":  "bul021818EBN.pdf",
+        "src":  "/files/bulletins/bul021818EBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 11, 2018",
+        "date":  "2018-02-11",
+        "year":  "2018",
+        "file":  "bul021118BBN.pdf",
+        "src":  "/files/bulletins/bul021118BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 4, 2018",
+        "date":  "2018-02-04",
+        "year":  "2018",
+        "file":  "bul020418CBN.pdf",
+        "src":  "/files/bulletins/bul020418CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 28, 2018",
+        "date":  "2018-01-28",
+        "year":  "2018",
+        "file":  "bul012818BBN.pdf",
+        "src":  "/files/bulletins/bul012818BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 21, 2018",
+        "date":  "2018-01-21",
+        "year":  "2018",
+        "file":  "bul012118Bdrf.pdf",
+        "src":  "/files/bulletins/bul012118Bdrf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 14, 2018",
+        "date":  "2018-01-14",
+        "year":  "2018",
+        "file":  "bul011418BBN.pdf",
+        "src":  "/files/bulletins/bul011418BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 24, 2017",
+        "date":  "2017-12-24",
+        "year":  "2017",
+        "file":  "bul122417BBN.pdf",
+        "src":  "/files/bulletins/bul122417BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 17, 2017",
+        "date":  "2017-12-17",
+        "year":  "2017",
+        "file":  "bul121717CBN.pdf",
+        "src":  "/files/bulletins/bul121717CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 10, 2017",
+        "date":  "2017-12-10",
+        "year":  "2017",
+        "file":  "bul121017BBN.pdf",
+        "src":  "/files/bulletins/bul121017BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 3, 2017",
+        "date":  "2017-12-03",
+        "year":  "2017",
+        "file":  "bul120317BBN.pdf",
+        "src":  "/files/bulletins/bul120317BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 26, 2017",
+        "date":  "2017-11-26",
+        "year":  "2017",
+        "file":  "bul112617BBN.pdf",
+        "src":  "/files/bulletins/bul112617BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 19, 2017",
+        "date":  "2017-11-19",
+        "year":  "2017",
+        "file":  "bul111917CBN.pdf",
+        "src":  "/files/bulletins/bul111917CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 12, 2017",
+        "date":  "2017-11-12",
+        "year":  "2017",
+        "file":  "bul111217CBN.pdf",
+        "src":  "/files/bulletins/bul111217CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 5, 2017",
+        "date":  "2017-11-05",
+        "year":  "2017",
+        "file":  "bul110517CBN.pdf",
+        "src":  "/files/bulletins/bul110517CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 29, 2017",
+        "date":  "2017-10-29",
+        "year":  "2017",
+        "file":  "bul102917DBN.pdf",
+        "src":  "/files/bulletins/bul102917DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 22, 2017",
+        "date":  "2017-10-22",
+        "year":  "2017",
+        "file":  "bul102217CBN.pdf",
+        "src":  "/files/bulletins/bul102217CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 15, 2017",
+        "date":  "2017-10-15",
+        "year":  "2017",
+        "file":  "bul101517bbn.pdf",
+        "src":  "/files/bulletins/bul101517bbn.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 8, 2017",
+        "date":  "2017-10-08",
+        "year":  "2017",
+        "file":  "bul100817BBN.pdf",
+        "src":  "/files/bulletins/bul100817BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 1, 2017",
+        "date":  "2017-10-01",
+        "year":  "2017",
+        "file":  "bul100117CBN.pdf",
+        "src":  "/files/bulletins/bul100117CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 24, 2017",
+        "date":  "2017-09-24",
+        "year":  "2017",
+        "file":  "bul092417CBN.pdf",
+        "src":  "/files/bulletins/bul092417CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 17, 2017",
+        "date":  "2017-09-17",
+        "year":  "2017",
+        "file":  "bul091717BBN.pdf",
+        "src":  "/files/bulletins/bul091717BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 10, 2017",
+        "date":  "2017-09-10",
+        "year":  "2017",
+        "file":  "bul091017CBN.pdf",
+        "src":  "/files/bulletins/bul091017CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 3, 2017",
+        "date":  "2017-09-03",
+        "year":  "2017",
+        "file":  "bul090317BBN.pdf",
+        "src":  "/files/bulletins/bul090317BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 27, 2017",
+        "date":  "2017-08-27",
+        "year":  "2017",
+        "file":  "bul082717BN.pdf",
+        "src":  "/files/bulletins/bul082717BN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 20, 2017",
+        "date":  "2017-08-20",
+        "year":  "2017",
+        "file":  "bul082017BBN.pdf",
+        "src":  "/files/bulletins/bul082017BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 13, 2017",
+        "date":  "2017-08-13",
+        "year":  "2017",
+        "file":  "bul081317CBN.pdf",
+        "src":  "/files/bulletins/bul081317CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 1, 2017",
+        "date":  "2017-08-01",
+        "year":  "2017",
+        "file":  "bul080617CBN.pdf",
+        "src":  "/files/bulletins/bul080617CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 30, 2017",
+        "date":  "2017-07-30",
+        "year":  "2017",
+        "file":  "bul073017BBN.pdf",
+        "src":  "/files/bulletins/bul073017BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 23, 2017",
+        "date":  "2017-07-23",
+        "year":  "2017",
+        "file":  "bul072317XDBN.pdf",
+        "src":  "/files/bulletins/bul072317XDBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 16, 2017",
+        "date":  "2017-07-16",
+        "year":  "2017",
+        "file":  "bul071617CBN.pdf",
+        "src":  "/files/bulletins/bul071617CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 9, 2017",
+        "date":  "2017-07-09",
+        "year":  "2017",
+        "file":  "bul070917BBN.pdf",
+        "src":  "/files/bulletins/bul070917BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 2, 2017",
+        "date":  "2017-07-02",
+        "year":  "2017",
+        "file":  "bul070217_udBBN.pdf",
+        "src":  "/files/bulletins/bul070217_udBBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 25, 2017",
+        "date":  "2017-06-25",
+        "year":  "2017",
+        "file":  "bul062517XXBBN.pdf",
+        "src":  "/files/bulletins/bul062517XXBBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 18, 2017",
+        "date":  "2017-06-18",
+        "year":  "2017",
+        "file":  "bul061817BBN.pdf",
+        "src":  "/files/bulletins/bul061817BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 11, 2017",
+        "date":  "2017-06-11",
+        "year":  "2017",
+        "file":  "bul061117BBN.pdf",
+        "src":  "/files/bulletins/bul061117BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 4, 2017",
+        "date":  "2017-06-04",
+        "year":  "2017",
+        "file":  "bul060417Bdrf.pdf",
+        "src":  "/files/bulletins/bul060417Bdrf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 28, 2017",
+        "date":  "2017-05-28",
+        "year":  "2017",
+        "file":  "bul052817CBN.pdf",
+        "src":  "/files/bulletins/bul052817CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 21, 2017",
+        "date":  "2017-05-21",
+        "year":  "2017",
+        "file":  "bul052117Bdrf.pdf",
+        "src":  "/files/bulletins/bul052117Bdrf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 14, 2017",
+        "date":  "2017-05-14",
+        "year":  "2017",
+        "file":  "bul051417CBN.pdf",
+        "src":  "/files/bulletins/bul051417CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 7, 2017",
+        "date":  "2017-05-07",
+        "year":  "2017",
+        "file":  "bul050717BBN.pdf",
+        "src":  "/files/bulletins/bul050717BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 30, 2017",
+        "date":  "2017-04-30",
+        "year":  "2017",
+        "file":  "bul0403017CCBN.pdf",
+        "src":  "/files/bulletins/bul0403017CCBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 2, 2017",
+        "date":  "2017-04-02",
+        "year":  "2017",
+        "file":  "bul040217CBN.pdf",
+        "src":  "/files/bulletins/bul040217CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 26, 2017",
+        "date":  "2017-03-26",
+        "year":  "2017",
+        "file":  "bul032617DBN.pdf",
+        "src":  "/files/bulletins/bul032617DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 19, 2017",
+        "date":  "2017-03-19",
+        "year":  "2017",
+        "file":  "bul031917DBN.pdf",
+        "src":  "/files/bulletins/bul031917DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 12, 2017",
+        "date":  "2017-03-12",
+        "year":  "2017",
+        "file":  "bul031217dbn.pdf",
+        "src":  "/files/bulletins/bul031217dbn.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 5, 2017",
+        "date":  "2017-03-05",
+        "year":  "2017",
+        "file":  "bul030517BBN.pdf",
+        "src":  "/files/bulletins/bul030517BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 26, 2017",
+        "date":  "2017-02-26",
+        "year":  "2017",
+        "file":  "bul022617CBN.pdf",
+        "src":  "/files/bulletins/bul022617CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 19, 2017",
+        "date":  "2017-02-19",
+        "year":  "2017",
+        "file":  "bul021917Dbn.pdf",
+        "src":  "/files/bulletins/bul021917Dbn.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 12, 2017",
+        "date":  "2017-02-12",
+        "year":  "2017",
+        "file":  "bul021217Cbn.pdf",
+        "src":  "/files/bulletins/bul021217Cbn.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 5, 2017",
+        "date":  "2017-02-05",
+        "year":  "2017",
+        "file":  "bul020517CBN.pdf",
+        "src":  "/files/bulletins/bul020517CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 29, 2017",
+        "date":  "2017-01-29",
+        "year":  "2017",
+        "file":  "bul012917BCBN.pdf",
+        "src":  "/files/bulletins/bul012917BCBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 22, 2017",
+        "date":  "2017-01-22",
+        "year":  "2017",
+        "file":  "bul012217CBN.pdf",
+        "src":  "/files/bulletins/bul012217CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 15, 2017",
+        "date":  "2017-01-15",
+        "year":  "2017",
+        "file":  "bul011517CBN.pdf",
+        "src":  "/files/bulletins/bul011517CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 1, 2017",
+        "date":  "2017-01-01",
+        "year":  "2017",
+        "file":  "bul010117CBN.pdf",
+        "src":  "/files/bulletins/bul010117CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 25, 2016",
+        "date":  "2016-12-25",
+        "year":  "2016",
+        "file":  "bul122516CBN.pdf",
+        "src":  "/files/bulletins/bul122516CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 18, 2016",
+        "date":  "2016-12-18",
+        "year":  "2016",
+        "file":  "bul121816CBN.pdf",
+        "src":  "/files/bulletins/bul121816CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 11, 2016",
+        "date":  "2016-12-11",
+        "year":  "2016",
+        "file":  "bul121116DBN.pdf",
+        "src":  "/files/bulletins/bul121116DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 4, 2016",
+        "date":  "2016-12-04",
+        "year":  "2016",
+        "file":  "bul120416BBN.pdf",
+        "src":  "/files/bulletins/bul120416BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 27, 2016",
+        "date":  "2016-11-27",
+        "year":  "2016",
+        "file":  "bul112716CBN.pdf",
+        "src":  "/files/bulletins/bul112716CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 20, 2016",
+        "date":  "2016-11-20",
+        "year":  "2016",
+        "file":  "bul112016BBN.pdf",
+        "src":  "/files/bulletins/bul112016BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 13, 2016",
+        "date":  "2016-11-13",
+        "year":  "2016",
+        "file":  "bul111316DDBN.pdf",
+        "src":  "/files/bulletins/bul111316DDBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 6, 2016",
+        "date":  "2016-11-06",
+        "year":  "2016",
+        "file":  "bul110616CBN.pdf",
+        "src":  "/files/bulletins/bul110616CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 30, 2016",
+        "date":  "2016-10-30",
+        "year":  "2016",
+        "file":  "bul103016BBN.pdf",
+        "src":  "/files/bulletins/bul103016BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 23, 2016",
+        "date":  "2016-10-23",
+        "year":  "2016",
+        "file":  "bul102316BBN.pdf",
+        "src":  "/files/bulletins/bul102316BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 16, 2016",
+        "date":  "2016-10-16",
+        "year":  "2016",
+        "file":  "bul101616DBN.pdf",
+        "src":  "/files/bulletins/bul101616DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 9, 2016",
+        "date":  "2016-10-09",
+        "year":  "2016",
+        "file":  "bul100916DBN.pdf",
+        "src":  "/files/bulletins/bul100916DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 2, 2016",
+        "date":  "2016-10-02",
+        "year":  "2016",
+        "file":  "bul100216BBN.pdf",
+        "src":  "/files/bulletins/bul100216BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 25, 2016",
+        "date":  "2016-09-25",
+        "year":  "2016",
+        "file":  "bul092516CBN.pdf",
+        "src":  "/files/bulletins/bul092516CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 18, 2016",
+        "date":  "2016-09-18",
+        "year":  "2016",
+        "file":  "bul091816CBN.pdf",
+        "src":  "/files/bulletins/bul091816CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 11, 2016",
+        "date":  "2016-09-11",
+        "year":  "2016",
+        "file":  "bul091116CBN.pdf",
+        "src":  "/files/bulletins/bul091116CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 4, 2016",
+        "date":  "2016-09-04",
+        "year":  "2016",
+        "file":  "bul090416BBN.pdf",
+        "src":  "/files/bulletins/bul090416BBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 28, 2016",
+        "date":  "2016-08-28",
+        "year":  "2016",
+        "file":  "bul082816CBN.pdf",
+        "src":  "/files/bulletins/bul082816CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 21, 2016",
+        "date":  "2016-08-21",
+        "year":  "2016",
+        "file":  "bul082116BCBN.pdf",
+        "src":  "/files/bulletins/bul082116BCBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 14, 2016",
+        "date":  "2016-08-14",
+        "year":  "2016",
+        "file":  "bul081416CBN.pdf",
+        "src":  "/files/bulletins/bul081416CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 7, 2016",
+        "date":  "2016-08-07",
+        "year":  "2016",
+        "file":  "bul080716CBN.pdf",
+        "src":  "/files/bulletins/bul080716CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 31, 2016",
+        "date":  "2016-07-31",
+        "year":  "2016",
+        "file":  "bul073116EBN.pdf",
+        "src":  "/files/bulletins/bul073116EBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 24, 2016",
+        "date":  "2016-07-24",
+        "year":  "2016",
+        "file":  "bul072416C.pdf",
+        "src":  "/files/bulletins/bul072416C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 17, 2016",
+        "date":  "2016-07-17",
+        "year":  "2016",
+        "file":  "bul071716C.pdf",
+        "src":  "/files/bulletins/bul071716C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 10, 2016",
+        "date":  "2016-07-10",
+        "year":  "2016",
+        "file":  "bul071016Ddrf.pdf",
+        "src":  "/files/bulletins/bul071016Ddrf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 3, 2016",
+        "date":  "2016-07-03",
+        "year":  "2016",
+        "file":  "bul070316DBN.pdf",
+        "src":  "/files/bulletins/bul070316DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 26, 2016",
+        "date":  "2016-06-26",
+        "year":  "2016",
+        "file":  "bul062616CBN.pdf",
+        "src":  "/files/bulletins/bul062616CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 19, 2016",
+        "date":  "2016-06-19",
+        "year":  "2016",
+        "file":  "bul061916CBN.pdf",
+        "src":  "/files/bulletins/bul061916CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 12, 2016",
+        "date":  "2016-06-12",
+        "year":  "2016",
+        "file":  "bul061216DBN.pdf",
+        "src":  "/files/bulletins/bul061216DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 5, 2016",
+        "date":  "2016-06-05",
+        "year":  "2016",
+        "file":  "bul060516CBN.pdf",
+        "src":  "/files/bulletins/bul060516CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 29, 2016",
+        "date":  "2016-05-29",
+        "year":  "2016",
+        "file":  "bul052916DBN.pdf",
+        "src":  "/files/bulletins/bul052916DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 22, 2016",
+        "date":  "2016-05-22",
+        "year":  "2016",
+        "file":  "bul052216BN.pdf",
+        "src":  "/files/bulletins/bul052216BN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 15, 2016",
+        "date":  "2016-05-15",
+        "year":  "2016",
+        "file":  "bul051516CBN.pdf",
+        "src":  "/files/bulletins/bul051516CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 8, 2016",
+        "date":  "2016-05-08",
+        "year":  "2016",
+        "file":  "bul050816CBN.pdf",
+        "src":  "/files/bulletins/bul050816CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 1, 2016",
+        "date":  "2016-05-01",
+        "year":  "2016",
+        "file":  "bul_Em_Pasch2016.pdf",
+        "src":  "/files/bulletins/bul_Em_Pasch2016.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 24, 2016",
+        "date":  "2016-04-24",
+        "year":  "2016",
+        "file":  "bul042416CBN.pdf",
+        "src":  "/files/bulletins/bul042416CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 17, 2016",
+        "date":  "2016-04-17",
+        "year":  "2016",
+        "file":  "bul041716FBN.pdf",
+        "src":  "/files/bulletins/bul041716FBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 3, 2016",
+        "date":  "2016-04-03",
+        "year":  "2016",
+        "file":  "bul040316EBN.pdf",
+        "src":  "/files/bulletins/bul040316EBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 27, 2016",
+        "date":  "2016-03-27",
+        "year":  "2016",
+        "file":  "bul032716CBN.pdf",
+        "src":  "/files/bulletins/bul032716CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 20, 2016",
+        "date":  "2016-03-20",
+        "year":  "2016",
+        "file":  "bul032016DBN.pdf",
+        "src":  "/files/bulletins/bul032016DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 13, 2016",
+        "date":  "2016-03-13",
+        "year":  "2016",
+        "file":  "bul031316CBN.pdf",
+        "src":  "/files/bulletins/bul031316CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 6, 2016",
+        "date":  "2016-03-06",
+        "year":  "2016",
+        "file":  "bul030616DBN.pdf",
+        "src":  "/files/bulletins/bul030616DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 28, 2016",
+        "date":  "2016-02-28",
+        "year":  "2016",
+        "file":  "bul022816DBN.pdf",
+        "src":  "/files/bulletins/bul022816DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 21, 2016",
+        "date":  "2016-02-21",
+        "year":  "2016",
+        "file":  "bul022116CBN.pdf",
+        "src":  "/files/bulletins/bul022116CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 14, 2016",
+        "date":  "2016-02-14",
+        "year":  "2016",
+        "file":  "bul021416DBN.pdf",
+        "src":  "/files/bulletins/bul021416DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 7, 2016",
+        "date":  "2016-02-07",
+        "year":  "2016",
+        "file":  "bul020716CBN.pdf",
+        "src":  "/files/bulletins/bul020716CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 31, 2016",
+        "date":  "2016-01-31",
+        "year":  "2016",
+        "file":  "bul013116DBN.pdf",
+        "src":  "/files/bulletins/bul013116DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 24, 2016",
+        "date":  "2016-01-24",
+        "year":  "2016",
+        "file":  "bul012416D.pdf",
+        "src":  "/files/bulletins/bul012416D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 17, 2016",
+        "date":  "2016-01-17",
+        "year":  "2016",
+        "file":  "bul011716CBN.pdf",
+        "src":  "/files/bulletins/bul011716CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 10, 2016",
+        "date":  "2016-01-10",
+        "year":  "2016",
+        "file":  "bul011016CBN.pdf",
+        "src":  "/files/bulletins/bul011016CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 3, 2016",
+        "date":  "2016-01-03",
+        "year":  "2016",
+        "file":  "bul010316CBN.pdf",
+        "src":  "/files/bulletins/bul010316CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 27, 2015",
+        "date":  "2015-12-27",
+        "year":  "2015",
+        "file":  "bul122715CBN.pdf",
+        "src":  "/files/bulletins/bul122715CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 13, 2015",
+        "date":  "2015-12-13",
+        "year":  "2015",
+        "file":  "bul121315CBN.pdf",
+        "src":  "/files/bulletins/bul121315CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 6, 2015",
+        "date":  "2015-12-06",
+        "year":  "2015",
+        "file":  "bul120615C.pdf",
+        "src":  "/files/bulletins/bul120615C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 15, 2015",
+        "date":  "2015-11-15",
+        "year":  "2015",
+        "file":  "bul111515CBN.pdf",
+        "src":  "/files/bulletins/bul111515CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 4, 2015",
+        "date":  "2015-10-04",
+        "year":  "2015",
+        "file":  "bul100415CBN.pdf",
+        "src":  "/files/bulletins/bul100415CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 27, 2015",
+        "date":  "2015-09-27",
+        "year":  "2015",
+        "file":  "bul092715CBN.pdf",
+        "src":  "/files/bulletins/bul092715CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 20, 2015",
+        "date":  "2015-09-20",
+        "year":  "2015",
+        "file":  "bul092015Ddrf.pdf",
+        "src":  "/files/bulletins/bul092015Ddrf.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 13, 2015",
+        "date":  "2015-09-13",
+        "year":  "2015",
+        "file":  "bul091315DDRF.pdf",
+        "src":  "/files/bulletins/bul091315DDRF.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 6, 2015",
+        "date":  "2015-09-06",
+        "year":  "2015",
+        "file":  "bul090615CBN.pdf",
+        "src":  "/files/bulletins/bul090615CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 5, 2015",
+        "date":  "2015-09-05",
+        "year":  "2015",
+        "file":  "bul090515CBN.pdf",
+        "src":  "/files/bulletins/bul090515CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 23, 2015",
+        "date":  "2015-08-23",
+        "year":  "2015",
+        "file":  "bul082315DBN.pdf",
+        "src":  "/files/bulletins/bul082315DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 16, 2015",
+        "date":  "2015-08-16",
+        "year":  "2015",
+        "file":  "bul081615EBN.pdf",
+        "src":  "/files/bulletins/bul081615EBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 9, 2015",
+        "date":  "2015-08-09",
+        "year":  "2015",
+        "file":  "bul080915DCBN.pdf",
+        "src":  "/files/bulletins/bul080915DCBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 2, 2015",
+        "date":  "2015-08-02",
+        "year":  "2015",
+        "file":  "bul080215CBN.pdf",
+        "src":  "/files/bulletins/bul080215CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 26, 2015",
+        "date":  "2015-07-26",
+        "year":  "2015",
+        "file":  "bul072615EBN.pdf",
+        "src":  "/files/bulletins/bul072615EBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 19, 2015",
+        "date":  "2015-07-19",
+        "year":  "2015",
+        "file":  "bul071915CBN.pdf",
+        "src":  "/files/bulletins/bul071915CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 12, 2015",
+        "date":  "2015-07-12",
+        "year":  "2015",
+        "file":  "bul071215CBN.pdf",
+        "src":  "/files/bulletins/bul071215CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 5, 2015",
+        "date":  "2015-07-05",
+        "year":  "2015",
+        "file":  "bul070515D.pdf",
+        "src":  "/files/bulletins/bul070515D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 28, 2015",
+        "date":  "2015-06-28",
+        "year":  "2015",
+        "file":  "bul062815CBN.pdf",
+        "src":  "/files/bulletins/bul062815CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 21, 2015",
+        "date":  "2015-06-21",
+        "year":  "2015",
+        "file":  "bul062115CBN.pdf",
+        "src":  "/files/bulletins/bul062115CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 14, 2015",
+        "date":  "2015-06-14",
+        "year":  "2015",
+        "file":  "bul061415CBN.pdf",
+        "src":  "/files/bulletins/bul061415CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 7, 2015",
+        "date":  "2015-06-07",
+        "year":  "2015",
+        "file":  "bul060715CBN.pdf",
+        "src":  "/files/bulletins/bul060715CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 31, 2015",
+        "date":  "2015-05-31",
+        "year":  "2015",
+        "file":  "bul053115CBN.pdf",
+        "src":  "/files/bulletins/bul053115CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 24, 2015",
+        "date":  "2015-05-24",
+        "year":  "2015",
+        "file":  "bul052415CBN.pdf",
+        "src":  "/files/bulletins/bul052415CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 17, 2015",
+        "date":  "2015-05-17",
+        "year":  "2015",
+        "file":  "bul051715CBN.pdf",
+        "src":  "/files/bulletins/bul051715CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 10, 2015",
+        "date":  "2015-05-10",
+        "year":  "2015",
+        "file":  "bul051015CBN.pdf",
+        "src":  "/files/bulletins/bul051015CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 3, 2015",
+        "date":  "2015-05-03",
+        "year":  "2015",
+        "file":  "bul050315CBN.pdf",
+        "src":  "/files/bulletins/bul050315CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 26, 2015",
+        "date":  "2015-04-26",
+        "year":  "2015",
+        "file":  "bul042615CBN.pdf",
+        "src":  "/files/bulletins/bul042615CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 5, 2015",
+        "date":  "2015-04-05",
+        "year":  "2015",
+        "file":  "bul040515DBN.pdf",
+        "src":  "/files/bulletins/bul040515DBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 29, 2015",
+        "date":  "2015-03-29",
+        "year":  "2015",
+        "file":  "bul032915CBN.pdf",
+        "src":  "/files/bulletins/bul032915CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 22, 2015",
+        "date":  "2015-03-22",
+        "year":  "2015",
+        "file":  "bul032215C.pdf",
+        "src":  "/files/bulletins/bul032215C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 15, 2015",
+        "date":  "2015-03-15",
+        "year":  "2015",
+        "file":  "bul031515B.pdf",
+        "src":  "/files/bulletins/bul031515B.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 8, 2015",
+        "date":  "2015-03-08",
+        "year":  "2015",
+        "file":  "bul030815CBN.pdf",
+        "src":  "/files/bulletins/bul030815CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 1, 2015",
+        "date":  "2015-03-01",
+        "year":  "2015",
+        "file":  "bul030115CBN.pdf",
+        "src":  "/files/bulletins/bul030115CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 22, 2015",
+        "date":  "2015-02-22",
+        "year":  "2015",
+        "file":  "bul022215CBN.pdf",
+        "src":  "/files/bulletins/bul022215CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 15, 2015",
+        "date":  "2015-02-15",
+        "year":  "2015",
+        "file":  "bul021515CBN.pdf",
+        "src":  "/files/bulletins/bul021515CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 8, 2015",
+        "date":  "2015-02-08",
+        "year":  "2015",
+        "file":  "bul020815CBN.pdf",
+        "src":  "/files/bulletins/bul020815CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 1, 2015",
+        "date":  "2015-02-01",
+        "year":  "2015",
+        "file":  "bul020115CBN.pdf",
+        "src":  "/files/bulletins/bul020115CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 18, 2015",
+        "date":  "2015-01-18",
+        "year":  "2015",
+        "file":  "bul011815D.pdf",
+        "src":  "/files/bulletins/bul011815D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 11, 2015",
+        "date":  "2015-01-11",
+        "year":  "2015",
+        "file":  "bul011115BCBN.pdf",
+        "src":  "/files/bulletins/bul011115BCBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 4, 2015",
+        "date":  "2015-01-04",
+        "year":  "2015",
+        "file":  "bul010415CBN.pdf",
+        "src":  "/files/bulletins/bul010415CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 28, 2014",
+        "date":  "2014-12-28",
+        "year":  "2014",
+        "file":  "bul122814CBN.pdf",
+        "src":  "/files/bulletins/bul122814CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 21, 2014",
+        "date":  "2014-12-21",
+        "year":  "2014",
+        "file":  "bul122114D.pdf",
+        "src":  "/files/bulletins/bul122114D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 14, 2014",
+        "date":  "2014-12-14",
+        "year":  "2014",
+        "file":  "bul121414D.pdf",
+        "src":  "/files/bulletins/bul121414D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "December 7, 2014",
+        "date":  "2014-12-07",
+        "year":  "2014",
+        "file":  "bul120714XE.pdf",
+        "src":  "/files/bulletins/bul120714XE.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 30, 2014",
+        "date":  "2014-11-30",
+        "year":  "2014",
+        "file":  "bul113014CBN.pdf",
+        "src":  "/files/bulletins/bul113014CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 23, 2014",
+        "date":  "2014-11-23",
+        "year":  "2014",
+        "file":  "bul112314CBN.pdf",
+        "src":  "/files/bulletins/bul112314CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 16, 2014",
+        "date":  "2014-11-16",
+        "year":  "2014",
+        "file":  "bul111614CBN.pdf",
+        "src":  "/files/bulletins/bul111614CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 9, 2014",
+        "date":  "2014-11-09",
+        "year":  "2014",
+        "file":  "bul110914D.pdf",
+        "src":  "/files/bulletins/bul110914D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "November 2, 2014",
+        "date":  "2014-11-02",
+        "year":  "2014",
+        "file":  "bul110214B.pdf",
+        "src":  "/files/bulletins/bul110214B.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 26, 2014",
+        "date":  "2014-10-26",
+        "year":  "2014",
+        "file":  "bul102614CBN.pdf",
+        "src":  "/files/bulletins/bul102614CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 19, 2014",
+        "date":  "2014-10-19",
+        "year":  "2014",
+        "file":  "bul101914CBN.pdf",
+        "src":  "/files/bulletins/bul101914CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 12, 2014",
+        "date":  "2014-10-12",
+        "year":  "2014",
+        "file":  "bul101214CBN.pdf",
+        "src":  "/files/bulletins/bul101214CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "October 5, 2014",
+        "date":  "2014-10-05",
+        "year":  "2014",
+        "file":  "bul100514CBN.pdf",
+        "src":  "/files/bulletins/bul100514CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 28, 2014",
+        "date":  "2014-09-28",
+        "year":  "2014",
+        "file":  "bul092814CBN.pdf",
+        "src":  "/files/bul092814CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 21, 2014",
+        "date":  "2014-09-21",
+        "year":  "2014",
+        "file":  "bul092114CBN.pdf",
+        "src":  "/files/bulletins/bul092114CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 14, 2014",
+        "date":  "2014-09-14",
+        "year":  "2014",
+        "file":  "bul091414CBN.pdf",
+        "src":  "/files/bulletins/bul091414CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "September 7, 2014",
+        "date":  "2014-09-07",
+        "year":  "2014",
+        "file":  "bul090714CBN.pdf",
+        "src":  "/files/bulletins/bul090714CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 31, 2014",
+        "date":  "2014-08-31",
+        "year":  "2014",
+        "file":  "bul083114D.pdf",
+        "src":  "/files/bulletins/bul083114D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 24, 2014",
+        "date":  "2014-08-24",
+        "year":  "2014",
+        "file":  "bul082414CBN.pdf",
+        "src":  "/files/bulletins/bul082414CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 17, 2014",
+        "date":  "2014-08-17",
+        "year":  "2014",
+        "file":  "bul081714C.pdf",
+        "src":  "/files/bulletins/bul081714C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 10, 2014",
+        "date":  "2014-08-10",
+        "year":  "2014",
+        "file":  "bul081014CBN.pdf",
+        "src":  "/files/bulletins/bul081014CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "August 3, 2014",
+        "date":  "2014-08-03",
+        "year":  "2014",
+        "file":  "bul080314C.pdf",
+        "src":  "/files/bulletins/bul080314C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 27, 2014",
+        "date":  "2014-07-27",
+        "year":  "2014",
+        "file":  "bul072714CX.pdf",
+        "src":  "/files/bulletins/bul072714CX.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 20, 2014",
+        "date":  "2014-07-20",
+        "year":  "2014",
+        "file":  "bul072014CBN.pdf",
+        "src":  "/files/bulletins/bul072014CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 13, 2014",
+        "date":  "2014-07-13",
+        "year":  "2014",
+        "file":  "bul071314CBN.pdf",
+        "src":  "/files/bulletins/bul071314CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "July 6, 2014",
+        "date":  "2014-07-06",
+        "year":  "2014",
+        "file":  "bul070614D.pdf",
+        "src":  "/files/bulletins/bul070614D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 29, 2014",
+        "date":  "2014-06-29",
+        "year":  "2014",
+        "file":  "bul062914CBN.pdf",
+        "src":  "/files/bulletins/bul062914CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 22, 2014",
+        "date":  "2014-06-22",
+        "year":  "2014",
+        "file":  "bul062214C.pdf",
+        "src":  "/files/bulletins/bul062214C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 15, 2014",
+        "date":  "2014-06-15",
+        "year":  "2014",
+        "file":  "bul061514CBN.pdf",
+        "src":  "/files/bulletins/bul061514CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 8, 2014",
+        "date":  "2014-06-08",
+        "year":  "2014",
+        "file":  "bul060814CBN.pdf",
+        "src":  "/files/bulletins/bul060814CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "June 1, 2014",
+        "date":  "2014-06-01",
+        "year":  "2014",
+        "file":  "bul060114D.pdf",
+        "src":  "/files/bulletins/bul060114D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 25, 2014",
+        "date":  "2014-05-25",
+        "year":  "2014",
+        "file":  "bul052514C.pdf",
+        "src":  "/files/bulletins/bul052514C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 18, 2014",
+        "date":  "2014-05-18",
+        "year":  "2014",
+        "file":  "bul051814C.pdf",
+        "src":  "/files/bulletins/bul051814C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 11, 2014",
+        "date":  "2014-05-11",
+        "year":  "2014",
+        "file":  "bul051114CBN.pdf",
+        "src":  "/files/bulletins/bul051114CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "May 4, 2014",
+        "date":  "2014-05-04",
+        "year":  "2014",
+        "file":  "bul050414CBN.pdf",
+        "src":  "/files/bulletins/bul050414CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 27, 2014",
+        "date":  "2014-04-27",
+        "year":  "2014",
+        "file":  "bul042714CBN.pdf",
+        "src":  "/files/bulletins/bul042714CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "Pascha — April 20, 2014",
+        "date":  "2014-04-20",
+        "year":  "2014",
+        "file":  "Pascha_Email_Gtg_2014B.pdf",
+        "src":  "/files/bulletins/Pascha_Email_Gtg_2014B.pdf",
+        "local":  false
+    },
+    {
+        "label":  "Holy Week Schedule 2014",
+        "date":  "2014-04-14",
+        "year":  "2014",
+        "file":  "Pascha_2014_sched.pdf",
+        "src":  "/files/bulletins/Pascha_2014_sched.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 13, 2014",
+        "date":  "2014-04-13",
+        "year":  "2014",
+        "file":  "PalmSuday_2014.pdf",
+        "src":  "/files/bulletins/PalmSuday_2014.pdf",
+        "local":  false
+    },
+    {
+        "label":  "April 6, 2014",
+        "date":  "2014-04-06",
+        "year":  "2014",
+        "file":  "bul040614CBN.pdf",
+        "src":  "/files/bulletins/bul040614CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 30, 2014",
+        "date":  "2014-03-30",
+        "year":  "2014",
+        "file":  "bul033014CBN.pdf",
+        "src":  "/files/bulletins/bul033014CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 23, 2014",
+        "date":  "2014-03-23",
+        "year":  "2014",
+        "file":  "bul032314CBN.pdf",
+        "src":  "/files/bulletins/bul032314CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 16, 2014",
+        "date":  "2014-03-16",
+        "year":  "2014",
+        "file":  "bul031614CBN.pdf",
+        "src":  "/files/bulletins/bul031614CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 9, 2014",
+        "date":  "2014-03-09",
+        "year":  "2014",
+        "file":  "bul030914D.pdf",
+        "src":  "/files/bulletins/bul030914D.pdf",
+        "local":  false
+    },
+    {
+        "label":  "March 2, 2014",
+        "date":  "2014-03-02",
+        "year":  "2014",
+        "file":  "bul030214CBN.pdf",
+        "src":  "/files/bulletins/bul030214CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 23, 2014",
+        "date":  "2014-02-23",
+        "year":  "2014",
+        "file":  "bul022314CBN.pdf",
+        "src":  "/files/bulletins/bul022314CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 16, 2014",
+        "date":  "2014-02-16",
+        "year":  "2014",
+        "file":  "bul021614CBN.pdf",
+        "src":  "/files/bulletins/bul021614CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 9, 2014",
+        "date":  "2014-02-09",
+        "year":  "2014",
+        "file":  "bul020914CBN.pdf",
+        "src":  "/files/bulletins/bul020914CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "February 2, 2014",
+        "date":  "2014-02-02",
+        "year":  "2014",
+        "file":  "bul020214B.pdf",
+        "src":  "/files/bulletins/bul020214B.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 26, 2014",
+        "date":  "2014-01-26",
+        "year":  "2014",
+        "file":  "bul012614CBN.pdf",
+        "src":  "/files/bulletins/bul012614CBN.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 19, 2014",
+        "date":  "2014-01-19",
+        "year":  "2014",
+        "file":  "bul_Epiphany_2014C.pdf",
+        "src":  "/files/bulletins/bul_Epiphany_2014C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 12, 2014",
+        "date":  "2014-01-12",
+        "year":  "2014",
+        "file":  "bul011214C.pdf",
+        "src":  "/files/bulletins/bul011214C.pdf",
+        "local":  false
+    },
+    {
+        "label":  "January 5, 2014",
+        "date":  "2014-01-05",
+        "year":  "2014",
+        "file":  "bul010514B.pdf",
+        "src":  "/files/bulletins/bul010514B.pdf",
+        "local":  false
+    }
+]
