@@ -203,7 +203,7 @@ We will remove anything you name, no questions asked.
 
 ### B8. Homilies and readings — now hosted in full, and translated
 
-On your instruction the readings are no longer links to the old site: every one is now a page here, and **every one appears in both English and Russian**. Each has its own address matching the old site's, so `resurrectionskete.org/thomas.html` becomes `thomas.html` here and existing links keep working.
+On your instruction the readings are no longer links to the old site: every one is now a page here, and **every one appears in both English and Russian**. They live under `readings/` (`readings/thomas.html`, and so on). Anyone who still has an old bookmark at `/thomas.html` is sent there by the 404 page.
 
 What we found when we moved them:
 
@@ -358,8 +358,8 @@ These are the pages that exist on the old site today, and where each should go:
 | `/bulletins` | `/bulletins.html` |
 | `/contact` | `/contact.html` |
 | `/directions` | `/contact.html` |
-| `/sermons` | `/readings.html` |
-| `/music` | `/readings.html` |
+| `/sermons` | `/readings/index.html` |
+| `/music` | `/readings/index.html` |
 | `/links` | `/links.html` |
 | `/favorites` | `/gallery.html` |
 | `/saintseraphimofsarov` | `/saints.html` |
@@ -367,7 +367,7 @@ These are the pages that exist on the old site today, and where each should go:
 | `/about_orthodoxy` | `/index.html`, or a chosen page — see Section C1 |
 | the 53 individual photo album pages | `/gallery.html` |
 
-**The 46 individual reading pages need no redirect at all.** Each one now lives at the same address it had before — `/thomas.html`, `/xenia.html`, `/radonitsa.html` and so on — so old links, bookmarks and search results reach the right page on their own. The two pages that were empty on the old site (`/prepconfsecondcomm.html`, `/prophjohn.html`) should redirect to `/readings.html` until their text turns up, and the three new pages created by splitting bulletin inserts are at `/mothersday.html`, `/missedvespers.html` and `/dormitionfast.html`.
+**The individual reading pages now live under `/readings/`.** The 404 page already sends `/thomas.html` (and the other old slugs) to `/readings/thomas.html`, so bookmarks from the old site still work. The two pages that were empty on the old site (`/prepconfsecondcomm.html`, `/prophjohn.html`) should redirect to `/readings/index.html` until their text turns up.
 
 - [ ] Confirm we should set these up.
 - [ ] If any old URLs are missing from this list, please add them.
@@ -457,8 +457,8 @@ For reference, this is what exists today. None of it requires anything from you.
 | `visit.html` | Written for someone who has never been inside an Orthodox church |
 | `gallery.html` | The photograph archive |
 | `bulletins.html` | The bulletin archive |
-| `readings.html` | Index of the readings, plus the choir recording |
-| 49 reading pages | One per reading, each complete in English and Russian |
+| `readings/index.html` | Index of the readings, plus the choir recording |
+| `readings/*.html` | One page per reading, each complete in English and Russian |
 | `saints.html` | The patron saints |
 | `contact.html` | Address, telephone, map, and driving directions |
 | `donate.html` | How to give |

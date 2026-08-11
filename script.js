@@ -70,8 +70,12 @@
 
   function t(en, ru) { return currentLang === 'ru' ? ru : en; }
 
+  /* Pages in a subfolder (the readings) set data-root="../" so fetches still
+     hit data/ at the site root rather than looking beside the page. */
+  var ROOT = document.documentElement.getAttribute('data-root') || '';
+
   function getJSON(path) {
-    return fetch(path, { cache: 'no-cache' }).then(function (r) {
+    return fetch(ROOT + path, { cache: 'no-cache' }).then(function (r) {
       if (!r.ok) { throw new Error(path + ' returned ' + r.status); }
       return r.json();
     });

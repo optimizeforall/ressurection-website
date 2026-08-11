@@ -1,7 +1,7 @@
 [
     {
         "slug":  "xenia",
-        "href":  "xenia.html",
+        "href":  "readings/xenia.html",
         "en":  "Blessed Xenia of St. Petersburg (Jan 24/Feb 6)",
         "ru":  "Блаженная Ксения Петербургская (24 января / 6 февраля)",
         "srcEn":  "",
@@ -9,7 +9,7 @@
     },
     {
         "slug":  "pominoveni",
-        "href":  "pominoveni.html",
+        "href":  "readings/pominoveni.html",
         "en":  "Commemoration of the Departed",
         "ru":  "Поминовение",
         "srcEn":  "",
@@ -17,7 +17,7 @@
     },
     {
         "slug":  "discoursenativitytheotokos",
-        "href":  "discoursenativitytheotokos.html",
+        "href":  "readings/discoursenativitytheotokos.html",
         "en":  "Excerpts From A Discourse on the Nativity of the Theotokos",
         "ru":  "Отрывки из Слова на Рождество Пресвятой Богородицы",
         "srcEn":  "By St. Andrew, Archbishop of Crete",
@@ -25,7 +25,7 @@
     },
     {
         "slug":  "godisfire",
-        "href":  "godisfire.html",
+        "href":  "readings/godisfire.html",
         "en":  "God is Fire — by Saint John of Shanghai and San Francisco",
         "ru":  "Бог есть огонь — святитель Иоанн Шанхайский и Сан-Францисский",
         "srcEn":  "",
@@ -33,7 +33,7 @@
     },
     {
         "slug":  "feastangmich",
-        "href":  "feastangmich.html",
+        "href":  "readings/feastangmich.html",
         "en":  "Homily for the Feast of St Archangel Michael",
         "ru":  "Слово на праздник святого Архистратига Михаила",
         "srcEn":  "St. John of Kronstadt",
@@ -41,7 +41,7 @@
     },
     {
         "slug":  "kissicon",
-        "href":  "kissicon.html",
+        "href":  "readings/kissicon.html",
         "en":  "How One Should Venerate an Icon",
         "ru":  "Как следует целовать икону",
         "srcEn":  "",
@@ -49,7 +49,7 @@
     },
     {
         "slug":  "conductinchurch",
-        "href":  "conductinchurch.html",
+        "href":  "readings/conductinchurch.html",
         "en":  "How We Should Conduct Ourselves in Church: Communion and After",
         "ru":  "Как нам вести себя в храме: причащение и после Литургии",
         "srcEn":  "",
@@ -57,7 +57,7 @@
     },
     {
         "slug":  "how2",
-        "href":  "how2.html",
+        "href":  "readings/how2.html",
         "en":  "How We Should Conduct Ourselves in Church: Entering and Standing",
         "ru":  "Как нам вести себя в храме: вход и стояние",
         "srcEn":  "(Fr. John Whitford)",
@@ -65,7 +65,7 @@
     },
     {
         "slug":  "mothersday",
-        "href":  "mothersday.html",
+        "href":  "readings/mothersday.html",
         "en":  "Mother’s Day",
         "ru":  "День матери",
         "srcEn":  "(from the Orthodox Herald)",
@@ -73,7 +73,7 @@
     },
     {
         "slug":  "kingdom",
-        "href":  "kingdom.html",
+        "href":  "readings/kingdom.html",
         "en":  "On the Kingdom of Heaven (The Transfiguration of the Lord)",
         "ru":  "О Царствии Небесном (Преображение Господне)",
         "srcEn":  "",
@@ -81,7 +81,7 @@
     },
     {
         "slug":  "allsaints",
-        "href":  "allsaints.html",
+        "href":  "readings/allsaints.html",
         "en":  "On the Kingdom of Heaven and the Earthly Kingdom",
         "ru":  "О Царствии Небесном и царстве земном",
         "srcEn":  "",
@@ -89,7 +89,7 @@
     },
     {
         "slug":  "mysteryjudgementsaints",
-        "href":  "mysteryjudgementsaints.html",
+        "href":  "readings/mysteryjudgementsaints.html",
         "en":  "On the Mystery and the Judgement of the Saints",
         "ru":  "О тайне и о суде святых",
         "srcEn":  "",
@@ -97,7 +97,7 @@
     },
     {
         "slug":  "sundaymyhrrbearers",
-        "href":  "sundaymyhrrbearers.html",
+        "href":  "readings/sundaymyhrrbearers.html",
         "en":  "On the Sunday of the Myrrh-bearers",
         "ru":  "В Неделю жён-мироносиц",
         "srcEn":  "Fr Andrew Phillips",
@@ -105,7 +105,7 @@
     },
     {
         "slug":  "thomas",
-        "href":  "thomas.html",
+        "href":  "readings/thomas.html",
         "en":  "On Thomas",
         "ru":  "О Фоме",
         "srcEn":  "Fr Andrew Phillips, “Orthodox England”",
@@ -113,7 +113,7 @@
     },
     {
         "slug":  "ontrinitysun",
-        "href":  "ontrinitysun.html",
+        "href":  "readings/ontrinitysun.html",
         "en":  "On Trinity Sunday",
         "ru":  "В День Святой Троицы",
         "srcEn":  "Fr. Andrew Phillips Sts Felix \u0026 Edmund Orthodox Church, Felixstowe, England",
@@ -121,7 +121,7 @@
     },
     {
         "slug":  "outerappearance",
-        "href":  "outerappearance.html",
+        "href":  "readings/outerappearance.html",
         "en":  "Outward Appearance",
         "ru":  "Внешний Вид",
         "srcEn":  "",
@@ -129,7 +129,7 @@
     },
     {
         "slug":  "prayertoseraphim",
-        "href":  "prayertoseraphim.html",
+        "href":  "readings/prayertoseraphim.html",
         "en":  "Prayer to Saint Seraphim, Wonderworker of Sarov",
         "ru":  "Молитва преподобному Серафиму, Саровскому чудотворцу",
         "srcEn":  "",
@@ -137,7 +137,7 @@
     },
     {
         "slug":  "preperationsconfession",
-        "href":  "preperationsconfession.html",
+        "href":  "readings/preperationsconfession.html",
         "en":  "Preparation for Confession - 3rd and 4th Commandments",
         "ru":  "Подготовка к исповеди — третья и четвёртая заповеди",
         "srcEn":  "",
@@ -145,7 +145,7 @@
     },
     {
         "slug":  "prepareforlent",
-        "href":  "prepareforlent.html",
+        "href":  "readings/prepareforlent.html",
         "en":  "Preparing for Great Lent",
         "ru":  "Приготовление к Великому посту",
         "srcEn":  "",
@@ -153,7 +153,7 @@
     },
     {
         "slug":  "prepentertemple",
-        "href":  "prepentertemple.html",
+        "href":  "readings/prepentertemple.html",
         "en":  "Preparing to Visit the Church",
         "ru":  "Подготовка к Посещению Храма",
         "srcEn":  "",
@@ -161,7 +161,7 @@
     },
     {
         "slug":  "radonitsa",
-        "href":  "radonitsa.html",
+        "href":  "readings/radonitsa.html",
         "en":  "Radonitsa",
         "ru":  "Радоница",
         "srcEn":  "Gregory Orloff",
@@ -169,7 +169,7 @@
     },
     {
         "slug":  "rulescommunion",
-        "href":  "rulescommunion.html",
+        "href":  "readings/rulescommunion.html",
         "en":  "Rules for Those Approaching Confession",
         "ru":  "Правила для исповедников",
         "srcEn":  "",
@@ -177,7 +177,7 @@
     },
     {
         "slug":  "rulescommunion2",
-        "href":  "rulescommunion2.html",
+        "href":  "readings/rulescommunion2.html",
         "en":  "Rules for Those Approaching Confession (Part 2)",
         "ru":  "Правила для исповедников (часть 2)",
         "srcEn":  "",
@@ -185,7 +185,7 @@
     },
     {
         "slug":  "ignatius",
-        "href":  "ignatius.html",
+        "href":  "readings/ignatius.html",
         "en":  "Saint Ignatius (Brianchaninov)",
         "ru":  "Святитель Игнатий (Брянчанинов)",
         "srcEn":  "",
@@ -193,7 +193,7 @@
     },
     {
         "slug":  "pageeditor",
-        "href":  "pageeditor.html",
+        "href":  "readings/pageeditor.html",
         "en":  "Saint Sergius of Radonezh",
         "ru":  "Преподобный Сергий Радонежский",
         "srcEn":  "",
@@ -201,7 +201,7 @@
     },
     {
         "slug":  "artos",
-        "href":  "artos.html",
+        "href":  "readings/artos.html",
         "en":  "The Artos — a Symbol of the Suffering Jesus, the True Bread of Life",
         "ru":  "Артос - символ пострадавшего Иисуса, истинного хлеба жизни",
         "srcEn":  "http://www.rian.ru/spravka/20070414/63634542.html 14/04/2007 08:13",
@@ -209,7 +209,7 @@
     },
     {
         "slug":  "ascension",
-        "href":  "ascension.html",
+        "href":  "readings/ascension.html",
         "en":  "The Ascension of our Lord",
         "ru":  "Вознесение Господне",
         "srcEn":  "(excerpted from St Vladimir\u0027s Seminary Quarterly, Vol. 2 # 3, 1954.)",
@@ -217,7 +217,7 @@
     },
     {
         "slug":  "epiphanymiracle",
-        "href":  "epiphanymiracle.html",
+        "href":  "readings/epiphanymiracle.html",
         "en":  "The Biblical miracle recurs on the Jordan during the Epiphany Day",
         "ru":  "Библейское чудо вновь совершается на Иордане в день Богоявления",
         "srcEn":  "",
@@ -225,7 +225,7 @@
     },
     {
         "slug":  "peter",
-        "href":  "peter.html",
+        "href":  "readings/peter.html",
         "en":  "The Celebration in Honor of Saints Peter, Alexis and Jonah, Metropolitans and Wonderworkers of All Russia",
         "ru":  "Празднование в честь всероссийских святителей Петра, Алексия и Ионы",
         "srcEn":  "",
@@ -233,7 +233,7 @@
     },
     {
         "slug":  "dormitionfast",
-        "href":  "dormitionfast.html",
+        "href":  "readings/dormitionfast.html",
         "en":  "The Dormition Fast",
         "ru":  "Успенский пост",
         "srcEn":  "",
@@ -241,7 +241,7 @@
     },
     {
         "slug":  "appearancemary",
-        "href":  "appearancemary.html",
+        "href":  "readings/appearancemary.html",
         "en":  "The Entry into the Temple of Our Most Holy Lady the Theotokos and Ever-Virgin Mary",
         "ru":  "Введение во храм Пресвятой Богородицы и Приснодевы Марии",
         "srcEn":  "",
@@ -249,7 +249,7 @@
     },
     {
         "slug":  "entrytemple",
-        "href":  "entrytemple.html",
+        "href":  "readings/entrytemple.html",
         "en":  "The Entry into the Temple of the Most Holy Theotokos",
         "ru":  "Введение во храм Пресвятой Богородицы",
         "srcEn":  "",
@@ -257,7 +257,7 @@
     },
     {
         "slug":  "stgeorge",
-        "href":  "stgeorge.html",
+        "href":  "readings/stgeorge.html",
         "en":  "The Great Martyr George the Trophy-bearer",
         "ru":  "Великомученик Георгий Победоносец",
         "srcEn":  "",
@@ -265,7 +265,7 @@
     },
     {
         "slug":  "kosmosdamian",
-        "href":  "kosmosdamian.html",
+        "href":  "readings/kosmosdamian.html",
         "en":  "The Holy Unmercenaries Cosmas and Damian of Asia Minor",
         "ru":  "Святые бессребреники Косма и Дамиан Азийские",
         "srcEn":  "(article from fatheralexander.org)",
@@ -273,7 +273,7 @@
     },
     {
         "slug":  "stjohn",
-        "href":  "stjohn.html",
+        "href":  "readings/stjohn.html",
         "en":  "The Holy, Glorious All-laudable Apostle and Evangelist John the Theologian",
         "ru":  "Святой славный и всехвальный апостол и евангелист Иоанн Богослов",
         "srcEn":  "",
@@ -281,7 +281,7 @@
     },
     {
         "slug":  "momonians",
-        "href":  "momonians.html",
+        "href":  "readings/momonians.html",
         "en":  "The Lost Generation (or, Who are the Mammonians)",
         "ru":  "Потерянное поколение (или кто такие маммонисты)",
         "srcEn":  "by the Very Rev. Vladimir Berzonsky",
@@ -289,7 +289,7 @@
     },
     {
         "slug":  "missedvespers",
-        "href":  "missedvespers.html",
+        "href":  "readings/missedvespers.html",
         "en":  "The Missed Vespers",
         "ru":  "Пропущенная вечерня",
         "srcEn":  "",
@@ -297,7 +297,7 @@
     },
     {
         "slug":  "mysterycommunion",
-        "href":  "mysterycommunion.html",
+        "href":  "readings/mysterycommunion.html",
         "en":  "The Mystery (Sacrament) of Communion",
         "ru":  "Таинство Причащения",
         "srcEn":  "",
@@ -305,7 +305,7 @@
     },
     {
         "slug":  "mysteryrepent",
-        "href":  "mysteryrepent.html",
+        "href":  "readings/mysteryrepent.html",
         "en":  "The Mystery (Sacrament) of Repentance: Confession in Church",
         "ru":  "Таинство Покаяния: Исповедь в Храме",
         "srcEn":  "",
@@ -313,7 +313,7 @@
     },
     {
         "slug":  "mystrepentgenandprivate",
-        "href":  "mystrepentgenandprivate.html",
+        "href":  "readings/mystrepentgenandprivate.html",
         "en":  "The Mystery (Sacrament) of Repentance: General and Private Confession",
         "ru":  "Таинство Покаяния: Общая и Частная Исповедь",
         "srcEn":  "Fr. Andrew Phillips Sts Felix \u0026 Edmund Orthodox Church, Felixstowe, England",
@@ -321,7 +321,7 @@
     },
     {
         "slug":  "mysteryrepentance1",
-        "href":  "mysteryrepentance1.html",
+        "href":  "readings/mysteryrepentance1.html",
         "en":  "The Mystery of Repentance: Confession (1)",
         "ru":  "Таинство Покаяния: Исповедь (1)",
         "srcEn":  "",
@@ -329,7 +329,7 @@
     },
     {
         "slug":  "smolenskicon",
-        "href":  "smolenskicon.html",
+        "href":  "readings/smolenskicon.html",
         "en":  "The Smolensk Icon of the Mother of God, called “Hodigitria”",
         "ru":  "Смоленская икона Божией Матери, именуемая «Одигитрия»",
         "srcEn":  "",
@@ -337,7 +337,7 @@
     },
     {
         "slug":  "exaltcross",
-        "href":  "exaltcross.html",
+        "href":  "readings/exaltcross.html",
         "en":  "The Universal Exaltation of the Precious and Life-Giving Cross",
         "ru":  "Всемирное Воздвижение Честного и Животворящего Креста Господня",
         "srcEn":  "(From the Synaxarion)",
@@ -345,7 +345,7 @@
     },
     {
         "slug":  "theophan",
-        "href":  "theophan.html",
+        "href":  "readings/theophan.html",
         "en":  "Theophan the Recluse. Thoughts for Each Day of the Year.",
         "ru":  "Феофан Затворник. Мысли на каждый день года.",
         "srcEn":  "",
@@ -353,7 +353,7 @@
     },
     {
         "slug":  "bogoyavleniye",
-        "href":  "bogoyavleniye.html",
+        "href":  "readings/bogoyavleniye.html",
         "en":  "Theophany",
         "ru":  "Богоявление",
         "srcEn":  "",
@@ -361,7 +361,7 @@
     },
     {
         "slug":  "doubtingtom",
-        "href":  "doubtingtom.html",
+        "href":  "readings/doubtingtom.html",
         "en":  "Thomas Sunday — Antipascha",
         "ru":  "О блаженном неверии. Неделя 2-я по Пасхе. Ин. 20, 19—31",
         "srcEn":  "",
@@ -369,7 +369,7 @@
     },
     {
         "slug":  "training",
-        "href":  "training.html",
+        "href":  "readings/training.html",
         "en":  "Training",
         "ru":  "Тренировка",
         "srcEn":  "Kirill Kharatyan",
@@ -377,7 +377,7 @@
     },
     {
         "slug":  "orthodoxy",
-        "href":  "orthodoxy.html",
+        "href":  "readings/orthodoxy.html",
         "en":  "What Do We Mean by the Word Orthodox?",
         "ru":  "Что мы разумеем под словом «православный»?",
         "srcEn":  "",
@@ -385,7 +385,7 @@
     },
     {
         "slug":  "prelest",
-        "href":  "prelest.html",
+        "href":  "readings/prelest.html",
         "en":  "What Is \"Prelest\"?",
         "ru":  "Что такое «прелесть»?",
         "srcEn":  "",

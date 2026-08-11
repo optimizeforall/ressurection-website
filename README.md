@@ -2,7 +2,26 @@
 
 Static website for the Russian Orthodox parish and skete in Fridley, Minnesota.
 
-The pages, styles, scripts, images and data live at the repository root. There is no build step to publish: what you push is what GitHub Pages serves.
+There is no build step to publish: what you push is what GitHub Pages serves.
+
+```
+index.html          Home
+about.html          Our parish
+services.html       Schedule
+visit.html          First visit
+contact.html        Address and directions
+gallery.html        Photographs
+bulletins.html      Weekly bulletins
+donate.html         Giving
+saints.html         Patron saints
+links.html          Further links
+404.html            Missing-page page (also redirects old reading URLs)
+readings/           Homilies and readings — index and one page each
+assets/             Icons, photographs, illustrations
+data/               JSON for the schedule, gallery, bulletins and reading list
+files/              Bulletin PDFs and the choir recording
+styles.css, script.js
+```
 
 ## Preview on GitHub Pages
 
