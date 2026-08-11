@@ -4,6 +4,10 @@ original-home.html
 original-sitemap.xml
 _langtest.html
 
+# Internal parish notes — not for the public website
+CONTENT-NEEDED.md
+PARISH-QUESTIONS-EMAIL.md
+
 # Full-size photo originals (~127 MB). The site serves only assets/gallery-web/.
 assets/gallery/
 
